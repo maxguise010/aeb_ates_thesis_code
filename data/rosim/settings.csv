@@ -1,0 +1,401 @@
+project,field,value
+Option A 1 Doublet 8 years changed parameters,application_version,1.2.0
+Option A 1 Doublet 8 years changed parameters,application_name,ROSIM
+Option A 1 Doublet 8 years changed parameters,output__results__directory,"(local ROSIM output folder, removed)"
+Option A 1 Doublet 8 years changed parameters,select_output_scenario,Option A 1 Doublet 8 years changed parameters
+Option A 1 Doublet 8 years changed parameters,use_custom_grdecl_file,0.0
+Option A 1 Doublet 8 years changed parameters,custom_grdecl_file,
+Option A 1 Doublet 8 years changed parameters,x_minimum__edge_of_grid_cell_,0.0
+Option A 1 Doublet 8 years changed parameters,x_spacing__grid_cell_size_,25.0
+Option A 1 Doublet 8 years changed parameters,x_number_of_cells,80.0
+Option A 1 Doublet 8 years changed parameters,y_minimum__edge_of_grid_cell_,0.0
+Option A 1 Doublet 8 years changed parameters,y_spacing__grid_cell_size_,25.0
+Option A 1 Doublet 8 years changed parameters,y_number_of_cells,80.0
+Option A 1 Doublet 8 years changed parameters,z_number_of_cells,20.0
+Option A 1 Doublet 8 years changed parameters,model_top_depth,258.0;0;none
+Option A 1 Doublet 8 years changed parameters,directory_for_layer_grids__optional_,
+Option A 1 Doublet 8 years changed parameters,model3d_faults,
+Option A 1 Doublet 8 years changed parameters,initialization_reference_depth,305.0
+Option A 1 Doublet 8 years changed parameters,initialization_reference_pressure,35.0
+Option A 1 Doublet 8 years changed parameters,temperature_dependent_viscosity,1.0
+Option A 1 Doublet 8 years changed parameters,temperature_dependent_density,1.0
+Option A 1 Doublet 8 years changed parameters,no_fluid_flow_boundary__doubletcalc_,1.0
+Option A 1 Doublet 8 years changed parameters,use__vertical_wells__wicalc__faster_,0.0
+Option A 1 Doublet 8 years changed parameters,model_top_bottom_temperature__doubletcalc_,0.0
+Option A 1 Doublet 8 years changed parameters,set_well_grid_cells_to_injection_temperature,0.0
+Option A 1 Doublet 8 years changed parameters,nr_of_calc_intervals_per_timestep,1.0
+Option A 1 Doublet 8 years changed parameters,calculate_subsidence,0.0
+Option A 1 Doublet 8 years changed parameters,force_9point_scheme,0.0
+Option A 1 Doublet 8 years changed parameters,license_shape_file__optional_,
+Option A 1 Doublet 8 years changed parameters,simulation_start_date,20087.0
+Option A 1 Doublet 8 years changed parameters,simulation_end_date,22999.0
+Option A 1 Doublet 8 years changed parameters,reporting_step_time_unit,2.0
+Option A 1 Doublet 8 years changed parameters,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option A 1 Doublet 8 years changed parameters,well_name,warm1;cold1
+Option A 1 Doublet 8 years changed parameters,well_group,G1;G1
+Option A 1 Doublet 8 years changed parameters,x_coordinate_well_head,1000.0;1000.0
+Option A 1 Doublet 8 years changed parameters,y_coordinate_well_head,950.0;1050.0
+Option A 1 Doublet 8 years changed parameters,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0
+Option A 1 Doublet 8 years changed parameters,top_open_section_md_s__comma_separated,288;288
+Option A 1 Doublet 8 years changed parameters,base_open_section_md_s__comma_separated,322;322
+Option A 1 Doublet 8 years changed parameters,top_open_section_depths__comma_separated,2200;2200
+Option A 1 Doublet 8 years changed parameters,base_open_section_depths__comma_separated,2250;2250
+Option A 1 Doublet 8 years changed parameters,open_section_layer_names__comma_separated,default layer;default layer
+Option A 1 Doublet 8 years changed parameters,open_section_layer_margins__comma_separated,10;10
+Option A 1 Doublet 8 years changed parameters,diameter,27.6;27.6
+Option A 1 Doublet 8 years changed parameters,skin,0.0;0.0
+Option A 1 Doublet 8 years changed parameters,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0
+Option A 1 Doublet 8 years changed parameters,grid_refinement_range,3.0;3.0
+Option A 1 Doublet 8 years changed parameters,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option A 1 Doublet 8 years changed parameters,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option A 1 Doublet 8 years changed parameters,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option A 2 doublets 8 years changed parameters,application_version,1.2.0
+Option A 2 doublets 8 years changed parameters,application_name,ROSIM
+Option A 2 doublets 8 years changed parameters,output__results__directory,"(local ROSIM output folder, removed)"
+Option A 2 doublets 8 years changed parameters,select_output_scenario,Option A 2 doublets 8 years changed parameters
+Option A 2 doublets 8 years changed parameters,use_custom_grdecl_file,0.0
+Option A 2 doublets 8 years changed parameters,custom_grdecl_file,
+Option A 2 doublets 8 years changed parameters,x_minimum__edge_of_grid_cell_,0.0
+Option A 2 doublets 8 years changed parameters,x_spacing__grid_cell_size_,25.0
+Option A 2 doublets 8 years changed parameters,x_number_of_cells,80.0
+Option A 2 doublets 8 years changed parameters,y_minimum__edge_of_grid_cell_,0.0
+Option A 2 doublets 8 years changed parameters,y_spacing__grid_cell_size_,25.0
+Option A 2 doublets 8 years changed parameters,y_number_of_cells,80.0
+Option A 2 doublets 8 years changed parameters,z_number_of_cells,20.0
+Option A 2 doublets 8 years changed parameters,model_top_depth,258.0;0;none
+Option A 2 doublets 8 years changed parameters,directory_for_layer_grids__optional_,
+Option A 2 doublets 8 years changed parameters,model3d_faults,
+Option A 2 doublets 8 years changed parameters,initialization_reference_depth,305.0
+Option A 2 doublets 8 years changed parameters,initialization_reference_pressure,35.0
+Option A 2 doublets 8 years changed parameters,temperature_dependent_viscosity,1.0
+Option A 2 doublets 8 years changed parameters,temperature_dependent_density,1.0
+Option A 2 doublets 8 years changed parameters,no_fluid_flow_boundary__doubletcalc_,1.0
+Option A 2 doublets 8 years changed parameters,use__vertical_wells__wicalc__faster_,0.0
+Option A 2 doublets 8 years changed parameters,model_top_bottom_temperature__doubletcalc_,0.0
+Option A 2 doublets 8 years changed parameters,set_well_grid_cells_to_injection_temperature,0.0
+Option A 2 doublets 8 years changed parameters,nr_of_calc_intervals_per_timestep,1.0
+Option A 2 doublets 8 years changed parameters,calculate_subsidence,0.0
+Option A 2 doublets 8 years changed parameters,force_9point_scheme,0.0
+Option A 2 doublets 8 years changed parameters,license_shape_file__optional_,
+Option A 2 doublets 8 years changed parameters,simulation_start_date,20087.0
+Option A 2 doublets 8 years changed parameters,simulation_end_date,22999.0
+Option A 2 doublets 8 years changed parameters,reporting_step_time_unit,2.0
+Option A 2 doublets 8 years changed parameters,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option A 2 doublets 8 years changed parameters,well_name,warm1;cold1;warm2;cold2
+Option A 2 doublets 8 years changed parameters,well_group,G1;G1;G1;G1
+Option A 2 doublets 8 years changed parameters,x_coordinate_well_head,925.0;925.0;1075.0;1075.0
+Option A 2 doublets 8 years changed parameters,y_coordinate_well_head,1000.0;1100.0;1000.0;1100.0
+Option A 2 doublets 8 years changed parameters,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0;0.0;0.0
+Option A 2 doublets 8 years changed parameters,top_open_section_md_s__comma_separated,288;288;288;288
+Option A 2 doublets 8 years changed parameters,base_open_section_md_s__comma_separated,322;322;322;322
+Option A 2 doublets 8 years changed parameters,top_open_section_depths__comma_separated,2200;2200;2200;2200
+Option A 2 doublets 8 years changed parameters,base_open_section_depths__comma_separated,2250;2250;2250;2250
+Option A 2 doublets 8 years changed parameters,open_section_layer_names__comma_separated,default layer;default layer;layer name;layer name
+Option A 2 doublets 8 years changed parameters,open_section_layer_margins__comma_separated,10;10;10;10
+Option A 2 doublets 8 years changed parameters,diameter,27.0;27.0;27.0;27.0
+Option A 2 doublets 8 years changed parameters,skin,0.0;0.0;0.0;0.0
+Option A 2 doublets 8 years changed parameters,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0;0.0;0.0
+Option A 2 doublets 8 years changed parameters,grid_refinement_range,3.0;3.0;3.0;3.0
+Option A 2 doublets 8 years changed parameters,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option A 2 doublets 8 years changed parameters,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option A 2 doublets 8 years changed parameters,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option A 4 doublets 8 years changed parameters,application_version,1.2.0
+Option A 4 doublets 8 years changed parameters,application_name,ROSIM
+Option A 4 doublets 8 years changed parameters,output__results__directory,"(local ROSIM output folder, removed)"
+Option A 4 doublets 8 years changed parameters,select_output_scenario,Option A 4 doublets 8 years changed parameters
+Option A 4 doublets 8 years changed parameters,use_custom_grdecl_file,0.0
+Option A 4 doublets 8 years changed parameters,custom_grdecl_file,
+Option A 4 doublets 8 years changed parameters,x_minimum__edge_of_grid_cell_,0.0
+Option A 4 doublets 8 years changed parameters,x_spacing__grid_cell_size_,25.0
+Option A 4 doublets 8 years changed parameters,x_number_of_cells,80.0
+Option A 4 doublets 8 years changed parameters,y_minimum__edge_of_grid_cell_,0.0
+Option A 4 doublets 8 years changed parameters,y_spacing__grid_cell_size_,25.0
+Option A 4 doublets 8 years changed parameters,y_number_of_cells,80.0
+Option A 4 doublets 8 years changed parameters,z_number_of_cells,20.0
+Option A 4 doublets 8 years changed parameters,model_top_depth,258.0;0;none
+Option A 4 doublets 8 years changed parameters,directory_for_layer_grids__optional_,
+Option A 4 doublets 8 years changed parameters,model3d_faults,
+Option A 4 doublets 8 years changed parameters,initialization_reference_depth,305.0
+Option A 4 doublets 8 years changed parameters,initialization_reference_pressure,35.0
+Option A 4 doublets 8 years changed parameters,temperature_dependent_viscosity,1.0
+Option A 4 doublets 8 years changed parameters,temperature_dependent_density,1.0
+Option A 4 doublets 8 years changed parameters,no_fluid_flow_boundary__doubletcalc_,1.0
+Option A 4 doublets 8 years changed parameters,use__vertical_wells__wicalc__faster_,0.0
+Option A 4 doublets 8 years changed parameters,model_top_bottom_temperature__doubletcalc_,0.0
+Option A 4 doublets 8 years changed parameters,set_well_grid_cells_to_injection_temperature,0.0
+Option A 4 doublets 8 years changed parameters,nr_of_calc_intervals_per_timestep,1.0
+Option A 4 doublets 8 years changed parameters,calculate_subsidence,0.0
+Option A 4 doublets 8 years changed parameters,force_9point_scheme,0.0
+Option A 4 doublets 8 years changed parameters,license_shape_file__optional_,
+Option A 4 doublets 8 years changed parameters,simulation_start_date,20087.0
+Option A 4 doublets 8 years changed parameters,simulation_end_date,22999.0
+Option A 4 doublets 8 years changed parameters,reporting_step_time_unit,2.0
+Option A 4 doublets 8 years changed parameters,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option A 4 doublets 8 years changed parameters,well_name,warm1;cold1;warm2;cold2;warm3;cold3;warm4;cold4
+Option A 4 doublets 8 years changed parameters,well_group,G1;G1;G1;G1;G1;G1;G1;G1
+Option A 4 doublets 8 years changed parameters,x_coordinate_well_head,925.0;925.0;925.0;925.0;1075.0;1075.0;1075.0;1075.0
+Option A 4 doublets 8 years changed parameters,y_coordinate_well_head,925.0;1025.0;1175.0;1075.0;925.0;1025.0;1175.0;1075.0
+Option A 4 doublets 8 years changed parameters,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Option A 4 doublets 8 years changed parameters,top_open_section_md_s__comma_separated,288;288;288;288;288;288;288;288
+Option A 4 doublets 8 years changed parameters,base_open_section_md_s__comma_separated,322;322;322;322;322;322;322;322
+Option A 4 doublets 8 years changed parameters,top_open_section_depths__comma_separated,2200;2200;2200;2200;2200;2200;2200;2200
+Option A 4 doublets 8 years changed parameters,base_open_section_depths__comma_separated,2250;2250;2250;2250;2250;2250;2250;2250
+Option A 4 doublets 8 years changed parameters,open_section_layer_names__comma_separated,default layer;default layer;layer name;layer name;layer name;layer name;layer name;layer name
+Option A 4 doublets 8 years changed parameters,open_section_layer_margins__comma_separated,10;10;10;10;10;10;10;10
+Option A 4 doublets 8 years changed parameters,diameter,27.0;27.0;27.0;27.0;27.0;27.0;27.0;27.0
+Option A 4 doublets 8 years changed parameters,skin,0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Option A 4 doublets 8 years changed parameters,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Option A 4 doublets 8 years changed parameters,grid_refinement_range,3.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0
+Option A 4 doublets 8 years changed parameters,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option A 4 doublets 8 years changed parameters,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option A 4 doublets 8 years changed parameters,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B 8 years NW adjusted v3,application_version,1.2.0
+Option B 8 years NW adjusted v3,application_name,ROSIM
+Option B 8 years NW adjusted v3,output__results__directory,"(local ROSIM output folder, removed)"
+Option B 8 years NW adjusted v3,select_output_scenario,Option B 8 years NW adjusted v3
+Option B 8 years NW adjusted v3,use_custom_grdecl_file,0.0
+Option B 8 years NW adjusted v3,custom_grdecl_file,
+Option B 8 years NW adjusted v3,x_minimum__edge_of_grid_cell_,0.0
+Option B 8 years NW adjusted v3,x_spacing__grid_cell_size_,25.0
+Option B 8 years NW adjusted v3,x_number_of_cells,80.0
+Option B 8 years NW adjusted v3,y_minimum__edge_of_grid_cell_,0.0
+Option B 8 years NW adjusted v3,y_spacing__grid_cell_size_,25.0
+Option B 8 years NW adjusted v3,y_number_of_cells,80.0
+Option B 8 years NW adjusted v3,z_number_of_cells,20.0
+Option B 8 years NW adjusted v3,model_top_depth,258.0;0;none
+Option B 8 years NW adjusted v3,directory_for_layer_grids__optional_,
+Option B 8 years NW adjusted v3,model3d_faults,
+Option B 8 years NW adjusted v3,initialization_reference_depth,305.0
+Option B 8 years NW adjusted v3,initialization_reference_pressure,35.0
+Option B 8 years NW adjusted v3,temperature_dependent_viscosity,1.0
+Option B 8 years NW adjusted v3,temperature_dependent_density,1.0
+Option B 8 years NW adjusted v3,no_fluid_flow_boundary__doubletcalc_,1.0
+Option B 8 years NW adjusted v3,use__vertical_wells__wicalc__faster_,0.0
+Option B 8 years NW adjusted v3,model_top_bottom_temperature__doubletcalc_,0.0
+Option B 8 years NW adjusted v3,set_well_grid_cells_to_injection_temperature,0.0
+Option B 8 years NW adjusted v3,nr_of_calc_intervals_per_timestep,1.0
+Option B 8 years NW adjusted v3,calculate_subsidence,0.0
+Option B 8 years NW adjusted v3,force_9point_scheme,0.0
+Option B 8 years NW adjusted v3,license_shape_file__optional_,
+Option B 8 years NW adjusted v3,simulation_start_date,20087.0
+Option B 8 years NW adjusted v3,simulation_end_date,24455.0
+Option B 8 years NW adjusted v3,reporting_step_time_unit,2.0
+Option B 8 years NW adjusted v3,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option B 8 years NW adjusted v3,well_name,warm1;cold1
+Option B 8 years NW adjusted v3,well_group,G1;G1
+Option B 8 years NW adjusted v3,x_coordinate_well_head,1000.0;1000.0
+Option B 8 years NW adjusted v3,y_coordinate_well_head,1037.5;962.5
+Option B 8 years NW adjusted v3,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0
+Option B 8 years NW adjusted v3,top_open_section_md_s__comma_separated,288;288
+Option B 8 years NW adjusted v3,base_open_section_md_s__comma_separated,322;322
+Option B 8 years NW adjusted v3,top_open_section_depths__comma_separated,2200;2200
+Option B 8 years NW adjusted v3,base_open_section_depths__comma_separated,2250;2250
+Option B 8 years NW adjusted v3,open_section_layer_names__comma_separated,default layer;default layer
+Option B 8 years NW adjusted v3,open_section_layer_margins__comma_separated,10;10
+Option B 8 years NW adjusted v3,diameter,27.0;27.0
+Option B 8 years NW adjusted v3,skin,0.0;0.0
+Option B 8 years NW adjusted v3,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0
+Option B 8 years NW adjusted v3,grid_refinement_range,3.0;3.0
+Option B 8 years NW adjusted v3,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B 8 years NW adjusted v3,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option B 8 years NW adjusted v3,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B NW 58 90 def,application_version,1.2.0
+Option B NW 58 90 def,application_name,ROSIM
+Option B NW 58 90 def,output__results__directory,"(local ROSIM output folder, removed)"
+Option B NW 58 90 def,select_output_scenario,Option B NW 58 90 def
+Option B NW 58 90 def,use_custom_grdecl_file,0.0
+Option B NW 58 90 def,custom_grdecl_file,
+Option B NW 58 90 def,x_minimum__edge_of_grid_cell_,0.0
+Option B NW 58 90 def,x_spacing__grid_cell_size_,25.0
+Option B NW 58 90 def,x_number_of_cells,80.0
+Option B NW 58 90 def,y_minimum__edge_of_grid_cell_,0.0
+Option B NW 58 90 def,y_spacing__grid_cell_size_,25.0
+Option B NW 58 90 def,y_number_of_cells,80.0
+Option B NW 58 90 def,z_number_of_cells,20.0
+Option B NW 58 90 def,model_top_depth,258.0;0;none
+Option B NW 58 90 def,directory_for_layer_grids__optional_,
+Option B NW 58 90 def,model3d_faults,
+Option B NW 58 90 def,initialization_reference_depth,305.0
+Option B NW 58 90 def,initialization_reference_pressure,35.0
+Option B NW 58 90 def,temperature_dependent_viscosity,1.0
+Option B NW 58 90 def,temperature_dependent_density,1.0
+Option B NW 58 90 def,no_fluid_flow_boundary__doubletcalc_,1.0
+Option B NW 58 90 def,use__vertical_wells__wicalc__faster_,0.0
+Option B NW 58 90 def,model_top_bottom_temperature__doubletcalc_,0.0
+Option B NW 58 90 def,set_well_grid_cells_to_injection_temperature,0.0
+Option B NW 58 90 def,nr_of_calc_intervals_per_timestep,1.0
+Option B NW 58 90 def,calculate_subsidence,0.0
+Option B NW 58 90 def,force_9point_scheme,0.0
+Option B NW 58 90 def,license_shape_file__optional_,
+Option B NW 58 90 def,simulation_start_date,20087.0
+Option B NW 58 90 def,simulation_end_date,22999.0
+Option B NW 58 90 def,reporting_step_time_unit,2.0
+Option B NW 58 90 def,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option B NW 58 90 def,well_name,warm1;cold1
+Option B NW 58 90 def,well_group,G1;G1
+Option B NW 58 90 def,x_coordinate_well_head,1000.0;1000.0
+Option B NW 58 90 def,y_coordinate_well_head,1037.5;962.5
+Option B NW 58 90 def,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0
+Option B NW 58 90 def,top_open_section_md_s__comma_separated,288;288
+Option B NW 58 90 def,base_open_section_md_s__comma_separated,322;322
+Option B NW 58 90 def,top_open_section_depths__comma_separated,2200;2200
+Option B NW 58 90 def,base_open_section_depths__comma_separated,2250;2250
+Option B NW 58 90 def,open_section_layer_names__comma_separated,default layer;default layer
+Option B NW 58 90 def,open_section_layer_margins__comma_separated,10;10
+Option B NW 58 90 def,diameter,27.0;27.0
+Option B NW 58 90 def,skin,0.0;0.0
+Option B NW 58 90 def,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0
+Option B NW 58 90 def,grid_refinement_range,3.0;3.0
+Option B NW 58 90 def,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B NW 58 90 def,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option B NW 58 90 def,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B WN 110C 8 year adjusted,application_version,1.2.0
+Option B WN 110C 8 year adjusted,application_name,ROSIM
+Option B WN 110C 8 year adjusted,output__results__directory,"(local ROSIM output folder, removed)"
+Option B WN 110C 8 year adjusted,select_output_scenario,Option B WN 110C 8 year adjusted
+Option B WN 110C 8 year adjusted,use_custom_grdecl_file,0.0
+Option B WN 110C 8 year adjusted,custom_grdecl_file,
+Option B WN 110C 8 year adjusted,x_minimum__edge_of_grid_cell_,0.0
+Option B WN 110C 8 year adjusted,x_spacing__grid_cell_size_,25.0
+Option B WN 110C 8 year adjusted,x_number_of_cells,80.0
+Option B WN 110C 8 year adjusted,y_minimum__edge_of_grid_cell_,0.0
+Option B WN 110C 8 year adjusted,y_spacing__grid_cell_size_,25.0
+Option B WN 110C 8 year adjusted,y_number_of_cells,80.0
+Option B WN 110C 8 year adjusted,z_number_of_cells,20.0
+Option B WN 110C 8 year adjusted,model_top_depth,258.0;0;none
+Option B WN 110C 8 year adjusted,directory_for_layer_grids__optional_,
+Option B WN 110C 8 year adjusted,model3d_faults,
+Option B WN 110C 8 year adjusted,initialization_reference_depth,305.0
+Option B WN 110C 8 year adjusted,initialization_reference_pressure,35.0
+Option B WN 110C 8 year adjusted,temperature_dependent_viscosity,1.0
+Option B WN 110C 8 year adjusted,temperature_dependent_density,1.0
+Option B WN 110C 8 year adjusted,no_fluid_flow_boundary__doubletcalc_,1.0
+Option B WN 110C 8 year adjusted,use__vertical_wells__wicalc__faster_,0.0
+Option B WN 110C 8 year adjusted,model_top_bottom_temperature__doubletcalc_,0.0
+Option B WN 110C 8 year adjusted,set_well_grid_cells_to_injection_temperature,0.0
+Option B WN 110C 8 year adjusted,nr_of_calc_intervals_per_timestep,1.0
+Option B WN 110C 8 year adjusted,calculate_subsidence,0.0
+Option B WN 110C 8 year adjusted,force_9point_scheme,0.0
+Option B WN 110C 8 year adjusted,license_shape_file__optional_,
+Option B WN 110C 8 year adjusted,simulation_start_date,20087.0
+Option B WN 110C 8 year adjusted,simulation_end_date,22999.0
+Option B WN 110C 8 year adjusted,reporting_step_time_unit,2.0
+Option B WN 110C 8 year adjusted,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option B WN 110C 8 year adjusted,well_name,warm1;cold1
+Option B WN 110C 8 year adjusted,well_group,G1;G1
+Option B WN 110C 8 year adjusted,x_coordinate_well_head,1000.0;1000.0
+Option B WN 110C 8 year adjusted,y_coordinate_well_head,1062.5;937.5
+Option B WN 110C 8 year adjusted,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0
+Option B WN 110C 8 year adjusted,top_open_section_md_s__comma_separated,288;288
+Option B WN 110C 8 year adjusted,base_open_section_md_s__comma_separated,322;322
+Option B WN 110C 8 year adjusted,top_open_section_depths__comma_separated,2200;2200
+Option B WN 110C 8 year adjusted,base_open_section_depths__comma_separated,2250;2250
+Option B WN 110C 8 year adjusted,open_section_layer_names__comma_separated,default layer;default layer
+Option B WN 110C 8 year adjusted,open_section_layer_margins__comma_separated,10;10
+Option B WN 110C 8 year adjusted,diameter,27.0;27.0
+Option B WN 110C 8 year adjusted,skin,0.0;0.0
+Option B WN 110C 8 year adjusted,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0
+Option B WN 110C 8 year adjusted,grid_refinement_range,3.0;3.0
+Option B WN 110C 8 year adjusted,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B WN 110C 8 year adjusted,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option B WN 110C 8 year adjusted,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B WN 58 90 def,application_version,1.2.0
+Option B WN 58 90 def,application_name,ROSIM
+Option B WN 58 90 def,output__results__directory,"(local ROSIM output folder, removed)"
+Option B WN 58 90 def,select_output_scenario,Option B WN 58 90 def
+Option B WN 58 90 def,use_custom_grdecl_file,0.0
+Option B WN 58 90 def,custom_grdecl_file,
+Option B WN 58 90 def,x_minimum__edge_of_grid_cell_,0.0
+Option B WN 58 90 def,x_spacing__grid_cell_size_,25.0
+Option B WN 58 90 def,x_number_of_cells,80.0
+Option B WN 58 90 def,y_minimum__edge_of_grid_cell_,0.0
+Option B WN 58 90 def,y_spacing__grid_cell_size_,25.0
+Option B WN 58 90 def,y_number_of_cells,80.0
+Option B WN 58 90 def,z_number_of_cells,20.0
+Option B WN 58 90 def,model_top_depth,258.0;0;none
+Option B WN 58 90 def,directory_for_layer_grids__optional_,
+Option B WN 58 90 def,model3d_faults,
+Option B WN 58 90 def,initialization_reference_depth,305.0
+Option B WN 58 90 def,initialization_reference_pressure,35.0
+Option B WN 58 90 def,temperature_dependent_viscosity,1.0
+Option B WN 58 90 def,temperature_dependent_density,1.0
+Option B WN 58 90 def,no_fluid_flow_boundary__doubletcalc_,1.0
+Option B WN 58 90 def,use__vertical_wells__wicalc__faster_,0.0
+Option B WN 58 90 def,model_top_bottom_temperature__doubletcalc_,0.0
+Option B WN 58 90 def,set_well_grid_cells_to_injection_temperature,0.0
+Option B WN 58 90 def,nr_of_calc_intervals_per_timestep,1.0
+Option B WN 58 90 def,calculate_subsidence,0.0
+Option B WN 58 90 def,force_9point_scheme,0.0
+Option B WN 58 90 def,license_shape_file__optional_,
+Option B WN 58 90 def,simulation_start_date,20087.0
+Option B WN 58 90 def,simulation_end_date,22999.0
+Option B WN 58 90 def,reporting_step_time_unit,2.0
+Option B WN 58 90 def,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option B WN 58 90 def,well_name,warm1;cold1
+Option B WN 58 90 def,well_group,G1;G1
+Option B WN 58 90 def,x_coordinate_well_head,1000.0;1000.0
+Option B WN 58 90 def,y_coordinate_well_head,1037.5;962.5
+Option B WN 58 90 def,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0
+Option B WN 58 90 def,top_open_section_md_s__comma_separated,288;288
+Option B WN 58 90 def,base_open_section_md_s__comma_separated,322;322
+Option B WN 58 90 def,top_open_section_depths__comma_separated,2200;2200
+Option B WN 58 90 def,base_open_section_depths__comma_separated,2250;2250
+Option B WN 58 90 def,open_section_layer_names__comma_separated,default layer;default layer
+Option B WN 58 90 def,open_section_layer_margins__comma_separated,10;10
+Option B WN 58 90 def,diameter,27.0;27.0
+Option B WN 58 90 def,skin,0.0;0.0
+Option B WN 58 90 def,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0
+Option B WN 58 90 def,grid_refinement_range,3.0;3.0
+Option B WN 58 90 def,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B WN 58 90 def,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option B WN 58 90 def,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B WN 8 years adjusted v3 70m,application_version,1.2.0
+Option B WN 8 years adjusted v3 70m,application_name,ROSIM
+Option B WN 8 years adjusted v3 70m,output__results__directory,"(local ROSIM output folder, removed)"
+Option B WN 8 years adjusted v3 70m,select_output_scenario,Option B WN 8 years adjusted v3 70m
+Option B WN 8 years adjusted v3 70m,use_custom_grdecl_file,0.0
+Option B WN 8 years adjusted v3 70m,custom_grdecl_file,
+Option B WN 8 years adjusted v3 70m,x_minimum__edge_of_grid_cell_,0.0
+Option B WN 8 years adjusted v3 70m,x_spacing__grid_cell_size_,25.0
+Option B WN 8 years adjusted v3 70m,x_number_of_cells,80.0
+Option B WN 8 years adjusted v3 70m,y_minimum__edge_of_grid_cell_,0.0
+Option B WN 8 years adjusted v3 70m,y_spacing__grid_cell_size_,25.0
+Option B WN 8 years adjusted v3 70m,y_number_of_cells,80.0
+Option B WN 8 years adjusted v3 70m,z_number_of_cells,20.0
+Option B WN 8 years adjusted v3 70m,model_top_depth,258.0;0;none
+Option B WN 8 years adjusted v3 70m,directory_for_layer_grids__optional_,
+Option B WN 8 years adjusted v3 70m,model3d_faults,
+Option B WN 8 years adjusted v3 70m,initialization_reference_depth,305.0
+Option B WN 8 years adjusted v3 70m,initialization_reference_pressure,35.0
+Option B WN 8 years adjusted v3 70m,temperature_dependent_viscosity,1.0
+Option B WN 8 years adjusted v3 70m,temperature_dependent_density,1.0
+Option B WN 8 years adjusted v3 70m,no_fluid_flow_boundary__doubletcalc_,1.0
+Option B WN 8 years adjusted v3 70m,use__vertical_wells__wicalc__faster_,0.0
+Option B WN 8 years adjusted v3 70m,model_top_bottom_temperature__doubletcalc_,0.0
+Option B WN 8 years adjusted v3 70m,set_well_grid_cells_to_injection_temperature,0.0
+Option B WN 8 years adjusted v3 70m,nr_of_calc_intervals_per_timestep,1.0
+Option B WN 8 years adjusted v3 70m,calculate_subsidence,0.0
+Option B WN 8 years adjusted v3 70m,force_9point_scheme,0.0
+Option B WN 8 years adjusted v3 70m,license_shape_file__optional_,
+Option B WN 8 years adjusted v3 70m,simulation_start_date,20087.0
+Option B WN 8 years adjusted v3 70m,simulation_end_date,22999.0
+Option B WN 8 years adjusted v3 70m,reporting_step_time_unit,2.0
+Option B WN 8 years adjusted v3 70m,reporting_step_increment____doubletcalc_calc_step_,1.0
+Option B WN 8 years adjusted v3 70m,well_name,warm1;cold1
+Option B WN 8 years adjusted v3 70m,well_group,G1;G1
+Option B WN 8 years adjusted v3 70m,x_coordinate_well_head,1000.0;1000.0
+Option B WN 8 years adjusted v3 70m,y_coordinate_well_head,1037.5;962.5
+Option B WN 8 years adjusted v3 70m,rotary_kelly_bushing__rkb_height_above_msl_,0.0;0.0
+Option B WN 8 years adjusted v3 70m,top_open_section_md_s__comma_separated,288;288
+Option B WN 8 years adjusted v3 70m,base_open_section_md_s__comma_separated,322;322
+Option B WN 8 years adjusted v3 70m,top_open_section_depths__comma_separated,2200;2200
+Option B WN 8 years adjusted v3 70m,base_open_section_depths__comma_separated,2250;2250
+Option B WN 8 years adjusted v3 70m,open_section_layer_names__comma_separated,default layer;default layer
+Option B WN 8 years adjusted v3 70m,open_section_layer_margins__comma_separated,10;10
+Option B WN 8 years adjusted v3 70m,diameter,27.0;27.0
+Option B WN 8 years adjusted v3 70m,skin,0.0;0.0
+Option B WN 8 years adjusted v3 70m,xy_grid_size_target__0_no_grid_refinement_,0.0;0.0
+Option B WN 8 years adjusted v3 70m,grid_refinement_range,3.0;3.0
+Option B WN 8 years adjusted v3 70m,model3d_layers,top layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400
+Option B WN 8 years adjusted v3 70m,model3d_layers,default layer;10;thickness;33.8;1;11;34;0.28;1;4000;4000;300;2.5;0.6;70000;800;2400
+Option B WN 8 years adjusted v3 70m,model3d_layers,bottom layer;5;thickness;30;1;11;34;0.05;1;0.01;0.01;0.01;2.5;0.6;70000;800;2400

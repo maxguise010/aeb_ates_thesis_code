@@ -1,0 +1,31 @@
+# Output of src/ttes_perfect_foresight_bound_relaxed.py (needs the raw data). Copy for the package: the data-loader lines (input statistics) are removed and the two absolute paths are made relative; all result lines are unchanged.
+Schedule: relaxed (min downtime 2 h, standby off)
+  No-tank relaxed run: €1,849,652/yr (expected €1,849,652 ± 10) [121s]
+  Check: no tank, actual, P20/P80: €1,849,652/yr [116s]
+  Check: actual P20/P80  5,000 m³: incr €+51,345/yr (expected €+51,345) [171s]
+  Check: actual P20/P80 19,000 m³: incr €+128,940/yr (expected €+128,940) [131s]
+  Reproduction check passed (all within ±10 EUR/yr).
+  Units: WW10 f=0.20232, WW01 f=0.3024, WW00 f=0.3024, WW02 f=0.3024, WW30_aftap f=0.2862, WW30_reductie f=0.486
+
+PERFECT-FORESIGHT UPPER BOUND (relaxed schedule, 50 MW, after the 3 × 1,200 m³ buffers)
+======================================================================================================================
+    Volume  Capacity      η  Horizon   Bound €/yr   Charged  Discharged  Cycles  EPEX spread  Standing loss  Break-even  Verdict
+        m³       MWh                                 MWh/yr      MWh/yr     /yr      €/MWh_e         MWh/yr        €/yr
+  --------------------------------------------------------------------------------------------------------------------
+     5,000       290  0.987    daily      546,221    58,063      57,308     201         36.6            514     119,000  above break-even  [13s]
+     5,000       290  0.987    7-day      825,032    64,766      63,924     224         49.8            514     119,000  above break-even  [11s]
+    19,000     1,100  0.963    daily      525,601    56,630      54,534      51         36.7          1,251     451,000  above break-even  [13s]
+    19,000     1,100  0.963    7-day      992,599    73,294      70,583      67         57.8          1,251     451,000  above break-even  [11s]
+
+  Charged heat per day (MWh/day, over all 1096 days):
+     5,000 m³  daily: 158.9 MWh/day
+     5,000 m³  7-day: 177.3 MWh/day
+    19,000 m³  daily: 155.0 MWh/day
+    19,000 m³  7-day: 200.6 MWh/day
+
+  Bound = value relative to the relaxed no-tank run (same basis as the increments).
+  Standing loss = the dispatch model's ptes_loss_mw at 90 °C (not subtracted from the bound).
+
+Saved: post_midterm/analysis/ttes_perfect_foresight_bound_relaxed.csv (data/ttes_perfect_foresight_bound_relaxed.csv in this package)
+Log saved: post_midterm/runs/ttes_perfect_foresight_bound_relaxed_output.log
+Total runtime: 741s

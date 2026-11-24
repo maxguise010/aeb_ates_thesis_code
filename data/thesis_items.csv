@@ -1,0 +1,65 @@
+item,kind,number,chapter,pdf_page,caption
+Figure 3.1,Figure,3.1,Ch. 3,36,Content of the three AEB buffer tanks as a share of the capacity C by hour of the day in
+Table 3.1,Table,3.1,Ch. 3,29,WPW network loop characteristics (2023–2025 average). Loop demands represent the
+Figure 3.2,Figure,3.2,Ch. 3,37,Content of the buffer tanks in one winter week as measured by AEB and as simulated by
+Table 3.2,Table,3.2,Ch. 3,30,ATES configurations evaluated in this thesis. The capacity per doublet is the dispatch ca-
+Figure 3.3,Figure,3.3,Ch. 3,38,"EPEXSpotday-aheadelectricitypricesfortheNetherlands,2023–2025(hourly). Top: full"
+Table 3.3,Table,3.3,Ch. 3,31,Aquifer and ROSIM model parameters for the AEB Westpoort location. Depths are given
+Table 3.4,Table,3.4,Ch. 3,32,Thiem equation parameters and flow limits per well at a drawdown of Δh = 15 m. The
+Table 3.5,Table,3.5,Ch. 3,37,Operation of the existing buffer tanks in the AEB data and in the dispatch model (2023–
+Table 3.6,Table,3.6,Ch. 3,38,EPEX Spot day-ahead electricity price statistics for the Netherlands by year. All prices
+Figure 4.1,Figure,4.1,Ch. 4,42,"Overview of the hourly dispatch sequence. The storage decision is made in layers, and"
+Table 4.1,Table,4.1,Ch. 4,45,Information used by the elements of the dispatch model and whether it would be available
+Figure 5.1,Figure,5.1,Ch. 5,50,StorageeffectoftheTTES(left)andnumberofchargecyclesperyear(right)asafunction
+Table 5.1,Table,5.1,Ch. 5,49,"TTESvolumesweep(relaxedschedule,thresholdsonactualEPEXprices,2023–2025av-"
+Table 5.2,Table,5.2,Ch. 5,50,Characteristics and operation of the TTES at the reference and largest volumes (P20/P80
+Figure 6.1,Figure,6.1,Ch. 6,55,ROSIM temperature of the warmwell for the Option A single-doublet configuration
+Table 6.1,Table,6.1,Ch. 6,52,WellcoordinatesforOptionAconfigurationsintheROSIMmodeldomain(25mgridcells).
+Figure 6.2,Figure,6.2,Ch. 6,58,"Option A state of charge (P30/P60 + SOC+25pp→P45, 53.2 MW, 4 doublets) over 2023–"
+Table 6.2,Table,6.2,Ch. 6,52,Annual energy balance of the aquifer module of the dispatch model for Option A (P30/P60
+Figure 6.3,Figure,6.3,Ch. 6,61,Distribution of the hourly ATES power in the Option A dispatch (P30/P60 with the
+Table 6.3,Table,6.3,Ch. 6,53,Thermal radius per doublet and ratio of the internal well spacing L to the thermal radius for
+Figure 6.4,Figure,6.4,Ch. 6,63,Annual thermal recovery efficiency per simulation year for all ATES configurations (years
+Table 6.4,Table,6.4,Ch. 6,53,Annual thermal recovery efficiency per simulation year for all Option A configurations. All
+Figure 6.5,Figure,6.5,Ch. 6,64,AnnualsavingoftheATESconfigurationsandtheTTESaftertheROSIMcalibration. Left:
+Table 6.5,Table,6.5,Ch. 6,56,Calibration of the dispatch model to the year-7 ROSIM efficiency for Option A (relaxed
+Table 6.6,Table,6.6,Ch. 6,57,"AnnualsavingoftheOptionAconfigurationsaftertheROSIMcalibration(year7reference,"
+Table 6.7,Table,6.7,Ch. 6,57,ROSIM annual thermal recovery efficiency for the 2-doublet Option A configuration: base
+Table 6.8,Table,6.8,Ch. 6,58,"Dispatch storage effect Sstor (before the ROSIM calibration, relaxed schedule) of Option A"
+Table 6.9,Table,6.9,Ch. 6,59,"Annual thermal recovery efficiency per simulation year for Option B standard (90 °C,"
+Table 6.10,Table,6.10,Ch. 6,60,OptionBdispatchresultsandthermalradiiat90°Cand110°C(2023–2025average). All
+Table 6.11,Table,6.11,Ch. 6,61,Annual thermal recovery efficiency per simulation year for Option B WN at 110 °C (125 m
+Table 6.12,Table,6.12,Ch. 6,62,Shareofthechargedanddischargedenergythatiscapturedatorbelowagivennumberof
+Table 6.13,Table,6.13,Ch. 6,63,"Comparison of all ATES configurations (year 7 reference, 2023–2025 average) with the"
+Figure 7.1,Figure,7.1,Ch. 7,75,NPV at mid CAPEX for the three levels of attribution. Storage effect only: the relaxed
+Table 7.1,Table,7.1,Ch. 7,69,"The three assumptions that decide what is credited to the storage, their basis, where their"
+Figure 7.2,Figure,7.2,Ch. 7,82,Change in the NPV of Option A 1D at mid CAPEX (base case: +€0.09 million) for the
+Table 7.2,Table,7.2,Ch. 7,69,Option A and Option B WN 110 °C CAPEX estimates (2025 prices). The low estimate is
+Table 7.3,Table,7.3,Ch. 7,70,Option B standard CAPEX breakdown (2025 prices). Heat pump costs per Vattenfall (Vat-
+Table 7.4,Table,7.4,Ch. 7,71,AnnualOPEXestimatesforallstorageoptions. TheOptionBstandardOPEXincludesNW
+Table 7.5,Table,7.5,Ch. 7,72,"Decompositionoftheannualsavingofeachstorageoption(k€/yr,relaxedschedule,year7"
+Table 7.6,Table,7.6,Ch. 7,72,"Net present value and simple payback period at mid CAPEX (5% real discount rate, 30-"
+Table 7.7,Table,7.7,Ch. 7,72,"NPVsensitivityacrossCAPEXscenarios(5%realdiscountrate,30-yearlifetime). Thelast"
+Table 7.8,Table,7.8,Ch. 7,73,"Break-even CAPEX per option (5% real discount rate, 30-year lifetime). The base case"
+Table 7.9,Table,7.9,Ch. 7,74,"NPVatmidCAPEXforthreelevelsofattribution(5%realdiscountrate,30-yearlifetime). φ∗"
+Table 7.10,Table,7.10,Ch. 7,76,"Shareoftherestarteventsthatthestoragecouldhavebridged,andthevalueoftherelaxed"
+Table 7.11,Table,7.11,Ch. 7,77,"Levelized cost of heat at mid CAPEX (5% real discount rate, 30-year lifetime). Qdisch is"
+Table 7.12,Table,7.12,Ch. 7,78,Lower bound of the NPV with the storage effect only (constrained schedule for the refer-
+Table 7.13,Table,7.13,Ch. 7,80,NPVofthebasecaseatmidCAPEX(M€)inthedemandandprice-spreadscenarios(5%
+Table 7.14,Table,7.14,Ch. 7,82,Investmentdecisionsummaryforallstorageoptionsrankedbymid-CAPEXNPV(5%real
+Table 8.1,Table,8.1,Ch. 8,84,Verificationand validation of the modelsand results.
+Table 9.1,Table,9.1,Ch. 9,100,"Summary of key results for all storage options (mid CAPEX, 5% real discount rate, 30-"
+Figure A.1,Figure,A.1,App. A,106,Flowchart of the hourly storage decision in the ATES dispatch model. A negative price
+Table A.1,Table,A.1,App. A,106,EligibilitygatesoftheATESdispatchmodel. Thepercentilesrefertothewhole2023–2025
+Table A.2,Table,A.2,App. A,108,Oracle-optimised dispatch thresholds and resulting annual savings (2023–2025 average).
+Figure B.1,Figure,B.1,App. B,115,"Storage effect of the TTES (relaxed schedule, thresholds on actual EPEX prices) and"
+Table B.1,Table,B.1,App. B,111,"CAPEX benchmarks and the estimates of this thesis, in 2025 prices. The 2020 values"
+Table B.2,Table,B.2,App. B,113,"Component-basedCAPEX of a singledoublet system at 221 m3/h(k€, 2020 prices unless"
+Table B.3,Table,B.3,App. B,114,"TTESresultsbytankvolume(relaxedschedule,thresholdsonactualEPEXprices,5%real"
+Table B.4,Table,B.4,App. B,115,TTESstorageeffectandmid-CAPEXNPVwiththresholdsdrivenbythepriceforecastand
+Table B.5,Table,B.5,App. B,116,NPV of the base case at mid CAPEX (M€) when the savings change by g per year in real
+Table B.6,Table,B.6,App. B,117,Termsofthesavingsdecompositioninthedemandandprice-spreadscenarios(k€/yr). Sstor
+Table B.7,Table,B.7,App. B,118,"NPV of the base case at mid CAPEX (M€) for three real discount rates (30-year lifetime,"
+Table B.8,Table,B.8,App. B,118,"Savings terms and buffer operation for different uses of the existing buffers (k€/yr, 2023–"
+Table C.1,Table,C.1,App. C,120,Mainmodules of the model code.
+Table C.2,Table,C.2,App. C,121,Datasources of the thesis.

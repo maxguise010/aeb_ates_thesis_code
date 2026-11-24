@@ -1,0 +1,5 @@
+run,cop_basis,cop,nw_discharged_mwh_yr,share_nw_discharge_below_90,mean_Ta_discharge_weighted,heat_added_mwh_yr,W_el_mwh_yr,cost_keur_yr_hourly_epex,thesis_W_el_mwh_yr,thesis_cost_keur_yr
+uncalibrated,0.5 x Carnot (53->95 degC),4.383,3410.747,1.000,80.758,2407.082,549.219,89.520,758.000,119.000
+uncalibrated,fixed 4.5,4.500,3410.747,1.000,80.758,2407.082,534.907,87.187,758.000,119.000
+calibrated,0.5 x Carnot (53->95 degC),4.383,2127.013,1.000,81.021,1431.746,326.678,53.660,758.000,119.000
+calibrated,fixed 4.5,4.500,2127.013,1.000,81.021,1431.746,318.166,52.262,758.000,119.000

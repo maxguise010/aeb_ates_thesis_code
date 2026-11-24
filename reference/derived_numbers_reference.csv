@@ -1,0 +1,272 @@
+id,printed,value,decimals,chapter,location,context,table,row,col
+tab:arbitrage-share|TTES 5k|Storage effect (kâ‚¬/yr),51,51.0,0.0,4,"tab:arbitrage-share, row 'TTES 5k', column 'Storage effect (kâ‚¬/yr)'",,tab:arbitrage-share,0.0,1.0
+tab:arbitrage-share|TTES 5k|Share of total saving (%),2.7,2.7,1.0,4,"tab:arbitrage-share, row 'TTES 5k', column 'Share of total saving (%)'",,tab:arbitrage-share,0.0,2.0
+tab:arbitrage-share|TTES 5k|Q_disch (MWh/yr),"5,320",5320.0,0.0,4,"tab:arbitrage-share, row 'TTES 5k', column 'Q_disch (MWh/yr)'",,tab:arbitrage-share,0.0,3.0
+tab:arbitrage-share|TTES 5k|Value per MWh (â‚¬/MWh),9.7,9.7,1.0,4,"tab:arbitrage-share, row 'TTES 5k', column 'Value per MWh (â‚¬/MWh)'",,tab:arbitrage-share,0.0,4.0
+tab:arbitrage-share|TTES 5k|LCOH (â‚¬/MWh),75,75.0,0.0,4,"tab:arbitrage-share, row 'TTES 5k', column 'LCOH (â‚¬/MWh)'",,tab:arbitrage-share,0.0,5.0
+tab:arbitrage-share|TTES 5k|Value / LCOH (%),13,13.0,0.0,4,"tab:arbitrage-share, row 'TTES 5k', column 'Value / LCOH (%)'",,tab:arbitrage-share,0.0,6.0
+tab:arbitrage-share|Option A 1D|Storage effect (kâ‚¬/yr),93,93.0,0.0,4,"tab:arbitrage-share, row 'Option A 1D', column 'Storage effect (kâ‚¬/yr)'",,tab:arbitrage-share,1.0,1.0
+tab:arbitrage-share|Option A 1D|Share of total saving (%),4.8,4.8,1.0,4,"tab:arbitrage-share, row 'Option A 1D', column 'Share of total saving (%)'",,tab:arbitrage-share,1.0,2.0
+tab:arbitrage-share|Option A 1D|Q_disch (MWh/yr),"4,251",4251.0,0.0,4,"tab:arbitrage-share, row 'Option A 1D', column 'Q_disch (MWh/yr)'",,tab:arbitrage-share,1.0,3.0
+tab:arbitrage-share|Option A 1D|Value per MWh (â‚¬/MWh),21.8,21.8,1.0,4,"tab:arbitrage-share, row 'Option A 1D', column 'Value per MWh (â‚¬/MWh)'",,tab:arbitrage-share,1.0,4.0
+tab:arbitrage-share|Option A 1D|LCOH (â‚¬/MWh),202,202.0,0.0,4,"tab:arbitrage-share, row 'Option A 1D', column 'LCOH (â‚¬/MWh)'",,tab:arbitrage-share,1.0,5.0
+tab:arbitrage-share|Option A 1D|Value / LCOH (%),11,11.0,0.0,4,"tab:arbitrage-share, row 'Option A 1D', column 'Value / LCOH (%)'",,tab:arbitrage-share,1.0,6.0
+tab:arbitrage-share|Option A 2D|Storage effect (kâ‚¬/yr),172,172.0,0.0,4,"tab:arbitrage-share, row 'Option A 2D', column 'Storage effect (kâ‚¬/yr)'",,tab:arbitrage-share,2.0,1.0
+tab:arbitrage-share|Option A 2D|Share of total saving (%),8.5,8.5,1.0,4,"tab:arbitrage-share, row 'Option A 2D', column 'Share of total saving (%)'",,tab:arbitrage-share,2.0,2.0
+tab:arbitrage-share|Option A 2D|Q_disch (MWh/yr),"8,279",8279.0,0.0,4,"tab:arbitrage-share, row 'Option A 2D', column 'Q_disch (MWh/yr)'",,tab:arbitrage-share,2.0,3.0
+tab:arbitrage-share|Option A 2D|Value per MWh (â‚¬/MWh),20.8,20.8,1.0,4,"tab:arbitrage-share, row 'Option A 2D', column 'Value per MWh (â‚¬/MWh)'",,tab:arbitrage-share,2.0,4.0
+tab:arbitrage-share|Option A 2D|LCOH (â‚¬/MWh),164,164.0,0.0,4,"tab:arbitrage-share, row 'Option A 2D', column 'LCOH (â‚¬/MWh)'",,tab:arbitrage-share,2.0,5.0
+tab:arbitrage-share|Option A 2D|Value / LCOH (%),13,13.0,0.0,4,"tab:arbitrage-share, row 'Option A 2D', column 'Value / LCOH (%)'",,tab:arbitrage-share,2.0,6.0
+tab:arbitrage-share|Option A 4D|Storage effect (kâ‚¬/yr),250,250.0,0.0,4,"tab:arbitrage-share, row 'Option A 4D', column 'Storage effect (kâ‚¬/yr)'",,tab:arbitrage-share,3.0,1.0
+tab:arbitrage-share|Option A 4D|Share of total saving (%),11.9,11.9,1.0,4,"tab:arbitrage-share, row 'Option A 4D', column 'Share of total saving (%)'",,tab:arbitrage-share,3.0,2.0
+tab:arbitrage-share|Option A 4D|Q_disch (MWh/yr),"13,820",13820.0,0.0,4,"tab:arbitrage-share, row 'Option A 4D', column 'Q_disch (MWh/yr)'",,tab:arbitrage-share,3.0,3.0
+tab:arbitrage-share|Option A 4D|Value per MWh (â‚¬/MWh),18.1,18.1,1.0,4,"tab:arbitrage-share, row 'Option A 4D', column 'Value per MWh (â‚¬/MWh)'",,tab:arbitrage-share,3.0,4.0
+tab:arbitrage-share|Option A 4D|LCOH (â‚¬/MWh),177,177.0,0.0,4,"tab:arbitrage-share, row 'Option A 4D', column 'LCOH (â‚¬/MWh)'",,tab:arbitrage-share,3.0,5.0
+tab:arbitrage-share|Option A 4D|Value / LCOH (%),10,10.0,0.0,4,"tab:arbitrage-share, row 'Option A 4D', column 'Value / LCOH (%)'",,tab:arbitrage-share,3.0,6.0
+tab:arbitrage-share|B-WN 110Â°C|Storage effect (kâ‚¬/yr),86,86.0,0.0,4,"tab:arbitrage-share, row 'B-WN 110Â°C', column 'Storage effect (kâ‚¬/yr)'",,tab:arbitrage-share,4.0,1.0
+tab:arbitrage-share|B-WN 110Â°C|Share of total saving (%),4.4,4.4,1.0,4,"tab:arbitrage-share, row 'B-WN 110Â°C', column 'Share of total saving (%)'",,tab:arbitrage-share,4.0,2.0
+tab:arbitrage-share|B-WN 110Â°C|Q_disch (MWh/yr),"4,786",4786.0,0.0,4,"tab:arbitrage-share, row 'B-WN 110Â°C', column 'Q_disch (MWh/yr)'",,tab:arbitrage-share,4.0,3.0
+tab:arbitrage-share|B-WN 110Â°C|Value per MWh (â‚¬/MWh),17.9,17.9,1.0,4,"tab:arbitrage-share, row 'B-WN 110Â°C', column 'Value per MWh (â‚¬/MWh)'",,tab:arbitrage-share,4.0,4.0
+tab:arbitrage-share|B-WN 110Â°C|LCOH (â‚¬/MWh),179,179.0,0.0,4,"tab:arbitrage-share, row 'B-WN 110Â°C', column 'LCOH (â‚¬/MWh)'",,tab:arbitrage-share,4.0,5.0
+tab:arbitrage-share|B-WN 110Â°C|Value / LCOH (%),10,10.0,0.0,4,"tab:arbitrage-share, row 'B-WN 110Â°C', column 'Value / LCOH (%)'",,tab:arbitrage-share,4.0,6.0
+tab:arbitrage-share|B standard|Storage effect (kâ‚¬/yr),72,72.0,0.0,4,"tab:arbitrage-share, row 'B standard', column 'Storage effect (kâ‚¬/yr)'",,tab:arbitrage-share,5.0,1.0
+tab:arbitrage-share|B standard|Share of total saving (%),3.8,3.8,1.0,4,"tab:arbitrage-share, row 'B standard', column 'Share of total saving (%)'",,tab:arbitrage-share,5.0,2.0
+tab:arbitrage-share|B standard|Q_disch (MWh/yr),"4,634",4634.0,0.0,4,"tab:arbitrage-share, row 'B standard', column 'Q_disch (MWh/yr)'",,tab:arbitrage-share,5.0,3.0
+tab:arbitrage-share|B standard|Value per MWh (â‚¬/MWh),15.6,15.6,1.0,4,"tab:arbitrage-share, row 'B standard', column 'Value per MWh (â‚¬/MWh)'",,tab:arbitrage-share,5.0,4.0
+tab:arbitrage-share|B standard|LCOH (â‚¬/MWh),393,393.0,0.0,4,"tab:arbitrage-share, row 'B standard', column 'LCOH (â‚¬/MWh)'",,tab:arbitrage-share,5.0,5.0
+tab:arbitrage-share|B standard|Value / LCOH (%),4,4.0,0.0,4,"tab:arbitrage-share, row 'B standard', column 'Value / LCOH (%)'",,tab:arbitrage-share,5.0,6.0
+tab:arbitrage-sensitivity|Spread Ã—0.75|S_ref,970,970.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—0.75', column 'S_ref'",,tab:arbitrage-sensitivity,0.0,1.0
+tab:arbitrage-sensitivity|Spread Ã—0.75|S_flex,772,772.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—0.75', column 'S_flex'",,tab:arbitrage-sensitivity,0.0,2.0
+tab:arbitrage-sensitivity|Spread Ã—0.75|S_stor tank,15,15.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—0.75', column 'S_stor tank'",,tab:arbitrage-sensitivity,0.0,3.0
+tab:arbitrage-sensitivity|Spread Ã—0.75|S_stor A 1D,48,48.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—0.75', column 'S_stor A 1D'",,tab:arbitrage-sensitivity,0.0,4.0
+tab:arbitrage-sensitivity|Spread Ã—0.75|NPV tank,+5.96,5.96,2.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—0.75', column 'NPV tank'",,tab:arbitrage-sensitivity,0.0,5.0
+tab:arbitrage-sensitivity|Spread Ã—0.75|NPV A 1D,-0.58,-0.58,2.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—0.75', column 'NPV A 1D'",,tab:arbitrage-sensitivity,0.0,6.0
+tab:arbitrage-sensitivity|Base|S_ref,1074,1074.0,0.0,4,"tab:arbitrage-sensitivity, row 'Base', column 'S_ref'",,tab:arbitrage-sensitivity,1.0,1.0
+tab:arbitrage-sensitivity|Base|S_flex,776,776.0,0.0,4,"tab:arbitrage-sensitivity, row 'Base', column 'S_flex'",,tab:arbitrage-sensitivity,1.0,2.0
+tab:arbitrage-sensitivity|Base|S_stor tank,51,51.0,0.0,4,"tab:arbitrage-sensitivity, row 'Base', column 'S_stor tank'",,tab:arbitrage-sensitivity,1.0,3.0
+tab:arbitrage-sensitivity|Base|S_stor A 1D,93,93.0,0.0,4,"tab:arbitrage-sensitivity, row 'Base', column 'S_stor A 1D'",,tab:arbitrage-sensitivity,1.0,4.0
+tab:arbitrage-sensitivity|Base|NPV tank,+6.59,6.59,2.0,4,"tab:arbitrage-sensitivity, row 'Base', column 'NPV tank'",,tab:arbitrage-sensitivity,1.0,5.0
+tab:arbitrage-sensitivity|Base|NPV A 1D,+0.16,0.16,2.0,4,"tab:arbitrage-sensitivity, row 'Base', column 'NPV A 1D'",,tab:arbitrage-sensitivity,1.0,6.0
+tab:arbitrage-sensitivity|Spread Ã—1.25|S_ref,1178,1178.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.25', column 'S_ref'",,tab:arbitrage-sensitivity,2.0,1.0
+tab:arbitrage-sensitivity|Spread Ã—1.25|S_flex,780,780.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.25', column 'S_flex'",,tab:arbitrage-sensitivity,2.0,2.0
+tab:arbitrage-sensitivity|Spread Ã—1.25|S_stor tank,88,88.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.25', column 'S_stor tank'",,tab:arbitrage-sensitivity,2.0,3.0
+tab:arbitrage-sensitivity|Spread Ã—1.25|S_stor A 1D,140,140.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.25', column 'S_stor A 1D'",,tab:arbitrage-sensitivity,2.0,4.0
+tab:arbitrage-sensitivity|Spread Ã—1.25|NPV tank,+7.22,7.22,2.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.25', column 'NPV tank'",,tab:arbitrage-sensitivity,2.0,5.0
+tab:arbitrage-sensitivity|Spread Ã—1.25|NPV A 1D,+0.95,0.95,2.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.25', column 'NPV A 1D'",,tab:arbitrage-sensitivity,2.0,6.0
+tab:arbitrage-sensitivity|Spread Ã—1.5|S_ref,1282,1282.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.5', column 'S_ref'",,tab:arbitrage-sensitivity,3.0,1.0
+tab:arbitrage-sensitivity|Spread Ã—1.5|S_flex,785,785.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.5', column 'S_flex'",,tab:arbitrage-sensitivity,3.0,2.0
+tab:arbitrage-sensitivity|Spread Ã—1.5|S_stor tank,124,124.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.5', column 'S_stor tank'",,tab:arbitrage-sensitivity,3.0,3.0
+tab:arbitrage-sensitivity|Spread Ã—1.5|S_stor A 1D,191,191.0,0.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.5', column 'S_stor A 1D'",,tab:arbitrage-sensitivity,3.0,4.0
+tab:arbitrage-sensitivity|Spread Ã—1.5|NPV tank,+7.85,7.85,2.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.5', column 'NPV tank'",,tab:arbitrage-sensitivity,3.0,5.0
+tab:arbitrage-sensitivity|Spread Ã—1.5|NPV A 1D,+1.81,1.81,2.0,4,"tab:arbitrage-sensitivity, row 'Spread Ã—1.5', column 'NPV A 1D'",,tab:arbitrage-sensitivity,3.0,6.0
+tab:arbitrage-sensitivity|Level Ã—0.8|S_ref,883,883.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—0.8', column 'S_ref'",,tab:arbitrage-sensitivity,4.0,1.0
+tab:arbitrage-sensitivity|Level Ã—0.8|S_flex,621,621.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—0.8', column 'S_flex'",,tab:arbitrage-sensitivity,4.0,2.0
+tab:arbitrage-sensitivity|Level Ã—0.8|S_stor tank,41,41.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—0.8', column 'S_stor tank'",,tab:arbitrage-sensitivity,4.0,3.0
+tab:arbitrage-sensitivity|Level Ã—0.8|S_stor A 1D,74,74.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—0.8', column 'S_stor A 1D'",,tab:arbitrage-sensitivity,4.0,4.0
+tab:arbitrage-sensitivity|Level Ã—0.8|NPV tank,+4.04,4.04,2.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—0.8', column 'NPV tank'",,tab:arbitrage-sensitivity,4.0,5.0
+tab:arbitrage-sensitivity|Level Ã—0.8|NPV A 1D,-2.51,-2.51,2.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—0.8', column 'NPV A 1D'",,tab:arbitrage-sensitivity,4.0,6.0
+tab:arbitrage-sensitivity|Level Ã—1.2|S_ref,1264,1264.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—1.2', column 'S_ref'",,tab:arbitrage-sensitivity,5.0,1.0
+tab:arbitrage-sensitivity|Level Ã—1.2|S_flex,931,931.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—1.2', column 'S_flex'",,tab:arbitrage-sensitivity,5.0,2.0
+tab:arbitrage-sensitivity|Level Ã—1.2|S_stor tank,62,62.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—1.2', column 'S_stor tank'",,tab:arbitrage-sensitivity,5.0,3.0
+tab:arbitrage-sensitivity|Level Ã—1.2|S_stor A 1D,111,111.0,0.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—1.2', column 'S_stor A 1D'",,tab:arbitrage-sensitivity,5.0,4.0
+tab:arbitrage-sensitivity|Level Ã—1.2|NPV tank,+9.14,9.14,2.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—1.2', column 'NPV tank'",,tab:arbitrage-sensitivity,5.0,5.0
+tab:arbitrage-sensitivity|Level Ã—1.2|NPV A 1D,+2.83,2.83,2.0,4,"tab:arbitrage-sensitivity, row 'Level Ã—1.2', column 'NPV A 1D'",,tab:arbitrage-sensitivity,5.0,6.0
+tab:flat-price|Dispatch-only reference S_ref|At 2023--2025 spread,"1,074",1074.0,0.0,4,"tab:flat-price, row 'Dispatch-only reference S_ref', column 'At 2023--2025 spread'",,tab:flat-price,0.0,1.0
+tab:flat-price|Dispatch-only reference S_ref|Slope,417,417.0,0.0,4,"tab:flat-price, row 'Dispatch-only reference S_ref', column 'Slope'",,tab:flat-price,0.0,2.0
+tab:flat-price|Dispatch-only reference S_ref|Extrapolated at flat price,657,657.0,0.0,4,"tab:flat-price, row 'Dispatch-only reference S_ref', column 'Extrapolated at flat price'",,tab:flat-price,0.0,3.0
+tab:flat-price|Dispatch-only reference S_ref|Depends on spread (%),39,39.0,0.0,4,"tab:flat-price, row 'Dispatch-only reference S_ref', column 'Depends on spread (%)'",,tab:flat-price,0.0,4.0
+tab:flat-price|Relaxed schedule S_flex|At 2023--2025 spread,776,776.0,0.0,4,"tab:flat-price, row 'Relaxed schedule S_flex', column 'At 2023--2025 spread'",,tab:flat-price,1.0,1.0
+tab:flat-price|Relaxed schedule S_flex|Slope,17,17.0,0.0,4,"tab:flat-price, row 'Relaxed schedule S_flex', column 'Slope'",,tab:flat-price,1.0,2.0
+tab:flat-price|Relaxed schedule S_flex|Extrapolated at flat price,759,759.0,0.0,4,"tab:flat-price, row 'Relaxed schedule S_flex', column 'Extrapolated at flat price'",,tab:flat-price,1.0,3.0
+tab:flat-price|Relaxed schedule S_flex|Depends on spread (%),2,2.0,0.0,4,"tab:flat-price, row 'Relaxed schedule S_flex', column 'Depends on spread (%)'",,tab:flat-price,1.0,4.0
+"tab:flat-price|Storage effect, tank|At 2023--2025 spread",51,51.0,0.0,4,"tab:flat-price, row 'Storage effect, tank', column 'At 2023--2025 spread'",,tab:flat-price,2.0,1.0
+"tab:flat-price|Storage effect, tank|Slope",146,146.0,0.0,4,"tab:flat-price, row 'Storage effect, tank', column 'Slope'",,tab:flat-price,2.0,2.0
+"tab:flat-price|Storage effect, tank|Extrapolated at flat price",-94,-94.0,0.0,4,"tab:flat-price, row 'Storage effect, tank', column 'Extrapolated at flat price'",,tab:flat-price,2.0,3.0
+"tab:flat-price|Storage effect, tank|Depends on spread (%)",all,,,4,"tab:flat-price, row 'Storage effect, tank', column 'Depends on spread (%)'",,tab:flat-price,2.0,4.0
+"tab:flat-price|Storage effect, Option A 1D|At 2023--2025 spread",93,93.0,0.0,4,"tab:flat-price, row 'Storage effect, Option A 1D', column 'At 2023--2025 spread'",,tab:flat-price,3.0,1.0
+"tab:flat-price|Storage effect, Option A 1D|Slope",177,177.0,0.0,4,"tab:flat-price, row 'Storage effect, Option A 1D', column 'Slope'",,tab:flat-price,3.0,2.0
+"tab:flat-price|Storage effect, Option A 1D|Extrapolated at flat price",-84,-84.0,0.0,4,"tab:flat-price, row 'Storage effect, Option A 1D', column 'Extrapolated at flat price'",,tab:flat-price,3.0,3.0
+"tab:flat-price|Storage effect, Option A 1D|Depends on spread (%)",all,,,4,"tab:flat-price, row 'Storage effect, Option A 1D', column 'Depends on spread (%)'",,tab:flat-price,3.0,4.0
+tab:efficiency-gap|Option A 1D|eta_cycle (%),83.6,83.6,1.0,4,"tab:efficiency-gap, row 'Option A 1D', column 'eta_cycle (%)'",,tab:efficiency-gap,0.0,1.0
+tab:efficiency-gap|Option A 1D|Q_disch/Q_textch (%),54.2,54.2,1.0,4,"tab:efficiency-gap, row 'Option A 1D', column 'Q_disch/Q_textch (%)'",,tab:efficiency-gap,0.0,2.0
+tab:efficiency-gap|Option A 1D|eta_ROSIM (%),45.2,45.2,1.0,4,"tab:efficiency-gap, row 'Option A 1D', column 'eta_ROSIM (%)'",,tab:efficiency-gap,0.0,3.0
+tab:efficiency-gap|Option A 1D|eta_ROSIM/eta_textcycle,0.54,0.54,2.0,4,"tab:efficiency-gap, row 'Option A 1D', column 'eta_ROSIM/eta_textcycle'",,tab:efficiency-gap,0.0,4.0
+tab:efficiency-gap|Option A 1D|f_corr,0.567,0.567,3.0,4,"tab:efficiency-gap, row 'Option A 1D', column 'f_corr'",,tab:efficiency-gap,0.0,5.0
+tab:efficiency-gap|Option A 2D|eta_cycle (%),90.2,90.2,1.0,4,"tab:efficiency-gap, row 'Option A 2D', column 'eta_cycle (%)'",,tab:efficiency-gap,1.0,1.0
+tab:efficiency-gap|Option A 2D|Q_disch/Q_textch (%),62.7,62.7,1.0,4,"tab:efficiency-gap, row 'Option A 2D', column 'Q_disch/Q_textch (%)'",,tab:efficiency-gap,1.0,2.0
+tab:efficiency-gap|Option A 2D|eta_ROSIM (%),49.6,49.6,1.0,4,"tab:efficiency-gap, row 'Option A 2D', column 'eta_ROSIM (%)'",,tab:efficiency-gap,1.0,3.0
+tab:efficiency-gap|Option A 2D|eta_ROSIM/eta_textcycle,0.55,0.55,2.0,4,"tab:efficiency-gap, row 'Option A 2D', column 'eta_ROSIM/eta_textcycle'",,tab:efficiency-gap,1.0,4.0
+tab:efficiency-gap|Option A 2D|f_corr,0.560,0.56,3.0,4,"tab:efficiency-gap, row 'Option A 2D', column 'f_corr'",,tab:efficiency-gap,1.0,5.0
+tab:efficiency-gap|Option A 4D|eta_cycle (%),93.6,93.6,1.0,4,"tab:efficiency-gap, row 'Option A 4D', column 'eta_cycle (%)'",,tab:efficiency-gap,2.0,1.0
+tab:efficiency-gap|Option A 4D|Q_disch/Q_textch (%),73.1,73.1,1.0,4,"tab:efficiency-gap, row 'Option A 4D', column 'Q_disch/Q_textch (%)'",,tab:efficiency-gap,2.0,2.0
+tab:efficiency-gap|Option A 4D|eta_ROSIM (%),51.4,51.4,1.0,4,"tab:efficiency-gap, row 'Option A 4D', column 'eta_ROSIM (%)'",,tab:efficiency-gap,2.0,3.0
+tab:efficiency-gap|Option A 4D|eta_ROSIM/eta_textcycle,0.55,0.55,2.0,4,"tab:efficiency-gap, row 'Option A 4D', column 'eta_ROSIM/eta_textcycle'",,tab:efficiency-gap,2.0,4.0
+tab:efficiency-gap|Option A 4D|f_corr,0.539,0.539,3.0,4,"tab:efficiency-gap, row 'Option A 4D', column 'f_corr'",,tab:efficiency-gap,2.0,5.0
+tab:efficiency-gap|B-WN 110Â°C|eta_cycle (%),78.7,78.7,1.0,4,"tab:efficiency-gap, row 'B-WN 110Â°C', column 'eta_cycle (%)'",,tab:efficiency-gap,3.0,1.0
+tab:efficiency-gap|B-WN 110Â°C|Q_disch/Q_textch (%),--,,,4,"tab:efficiency-gap, row 'B-WN 110Â°C', column 'Q_disch/Q_textch (%)'",,tab:efficiency-gap,3.0,2.0
+tab:efficiency-gap|B-WN 110Â°C|eta_ROSIM (%),48.7,48.7,1.0,4,"tab:efficiency-gap, row 'B-WN 110Â°C', column 'eta_ROSIM (%)'",,tab:efficiency-gap,3.0,3.0
+tab:efficiency-gap|B-WN 110Â°C|eta_ROSIM/eta_textcycle,0.62,0.62,2.0,4,"tab:efficiency-gap, row 'B-WN 110Â°C', column 'eta_ROSIM/eta_textcycle'",,tab:efficiency-gap,3.0,4.0
+tab:efficiency-gap|B-WN 110Â°C|f_corr,0.665,0.665,3.0,4,"tab:efficiency-gap, row 'B-WN 110Â°C', column 'f_corr'",,tab:efficiency-gap,3.0,5.0
+tab:efficiency-gap|B standard|eta_cycle (%),74.8,74.8,1.0,4,"tab:efficiency-gap, row 'B standard', column 'eta_cycle (%)'",,tab:efficiency-gap,4.0,1.0
+tab:efficiency-gap|B standard|Q_disch/Q_textch (%),--,,,4,"tab:efficiency-gap, row 'B standard', column 'Q_disch/Q_textch (%)'",,tab:efficiency-gap,4.0,2.0
+tab:efficiency-gap|B standard|eta_ROSIM (%),45.0,45.0,1.0,4,"tab:efficiency-gap, row 'B standard', column 'eta_ROSIM (%)'",,tab:efficiency-gap,4.0,3.0
+tab:efficiency-gap|B standard|eta_ROSIM/eta_textcycle,0.60,0.6,2.0,4,"tab:efficiency-gap, row 'B standard', column 'eta_ROSIM/eta_textcycle'",,tab:efficiency-gap,4.0,4.0
+tab:efficiency-gap|B standard|f_corr,0.617,0.617,3.0,4,"tab:efficiency-gap, row 'B standard', column 'f_corr'",,tab:efficiency-gap,4.0,5.0
+tab:fcorr-bound|TTES 5k|f_corr,1.00,1.0,2.0,4,"tab:fcorr-bound, row 'TTES 5k', column 'f_corr'",,tab:fcorr-bound,0.0,1.0
+tab:fcorr-bound|TTES 5k|NPV calibrated (Mâ‚¬),+6.59,6.59,2.0,4,"tab:fcorr-bound, row 'TTES 5k', column 'NPV calibrated (Mâ‚¬)'",,tab:fcorr-bound,0.0,2.0
+tab:fcorr-bound|TTES 5k|NPV with f_corr = 1 (Mâ‚¬),+6.59,6.59,2.0,4,"tab:fcorr-bound, row 'TTES 5k', column 'NPV with f_corr = 1 (Mâ‚¬)'",,tab:fcorr-bound,0.0,3.0
+tab:fcorr-bound|TTES 5k|Difference (Mâ‚¬),0.00,0.0,2.0,4,"tab:fcorr-bound, row 'TTES 5k', column 'Difference (Mâ‚¬)'",,tab:fcorr-bound,0.0,4.0
+tab:fcorr-bound|Option A 1D|f_corr,0.567,0.567,3.0,4,"tab:fcorr-bound, row 'Option A 1D', column 'f_corr'",,tab:fcorr-bound,1.0,1.0
+tab:fcorr-bound|Option A 1D|NPV calibrated (Mâ‚¬),+0.16,0.16,2.0,4,"tab:fcorr-bound, row 'Option A 1D', column 'NPV calibrated (Mâ‚¬)'",,tab:fcorr-bound,1.0,2.0
+tab:fcorr-bound|Option A 1D|NPV with f_corr = 1 (Mâ‚¬),+1.25,1.25,2.0,4,"tab:fcorr-bound, row 'Option A 1D', column 'NPV with f_corr = 1 (Mâ‚¬)'",,tab:fcorr-bound,1.0,3.0
+tab:fcorr-bound|Option A 1D|Difference (Mâ‚¬),+1.09,1.09,2.0,4,"tab:fcorr-bound, row 'Option A 1D', column 'Difference (Mâ‚¬)'",,tab:fcorr-bound,1.0,4.0
+tab:fcorr-bound|Option A 2D|f_corr,0.559,0.559,3.0,4,"tab:fcorr-bound, row 'Option A 2D', column 'f_corr'",,tab:fcorr-bound,2.0,1.0
+tab:fcorr-bound|Option A 2D|NPV calibrated (Mâ‚¬),-6.35,-6.35,2.0,4,"tab:fcorr-bound, row 'Option A 2D', column 'NPV calibrated (Mâ‚¬)'",,tab:fcorr-bound,2.0,2.0
+tab:fcorr-bound|Option A 2D|NPV with f_corr = 1 (Mâ‚¬),-4.27,-4.27,2.0,4,"tab:fcorr-bound, row 'Option A 2D', column 'NPV with f_corr = 1 (Mâ‚¬)'",,tab:fcorr-bound,2.0,3.0
+tab:fcorr-bound|Option A 2D|Difference (Mâ‚¬),+2.08,2.08,2.0,4,"tab:fcorr-bound, row 'Option A 2D', column 'Difference (Mâ‚¬)'",,tab:fcorr-bound,2.0,4.0
+tab:fcorr-bound|Option A 4D|f_corr,0.539,0.539,3.0,4,"tab:fcorr-bound, row 'Option A 4D', column 'f_corr'",,tab:fcorr-bound,3.0,1.0
+tab:fcorr-bound|Option A 4D|NPV calibrated (Mâ‚¬),-21.84,-21.84,2.0,4,"tab:fcorr-bound, row 'Option A 4D', column 'NPV calibrated (Mâ‚¬)'",,tab:fcorr-bound,3.0,2.0
+tab:fcorr-bound|Option A 4D|NPV with f_corr = 1 (Mâ‚¬),-18.55,-18.55,2.0,4,"tab:fcorr-bound, row 'Option A 4D', column 'NPV with f_corr = 1 (Mâ‚¬)'",,tab:fcorr-bound,3.0,3.0
+tab:fcorr-bound|Option A 4D|Difference (Mâ‚¬),+3.29,3.29,2.0,4,"tab:fcorr-bound, row 'Option A 4D', column 'Difference (Mâ‚¬)'",,tab:fcorr-bound,3.0,4.0
+tab:fcorr-bound|B-WN 110Â°C|f_corr,0.665,0.665,3.0,4,"tab:fcorr-bound, row 'B-WN 110Â°C', column 'f_corr'",,tab:fcorr-bound,4.0,1.0
+tab:fcorr-bound|B-WN 110Â°C|NPV calibrated (Mâ‚¬),+0.06,0.06,2.0,4,"tab:fcorr-bound, row 'B-WN 110Â°C', column 'NPV calibrated (Mâ‚¬)'",,tab:fcorr-bound,4.0,2.0
+tab:fcorr-bound|B-WN 110Â°C|NPV with f_corr = 1 (Mâ‚¬),+0.72,0.72,2.0,4,"tab:fcorr-bound, row 'B-WN 110Â°C', column 'NPV with f_corr = 1 (Mâ‚¬)'",,tab:fcorr-bound,4.0,3.0
+tab:fcorr-bound|B-WN 110Â°C|Difference (Mâ‚¬),+0.66,0.66,2.0,4,"tab:fcorr-bound, row 'B-WN 110Â°C', column 'Difference (Mâ‚¬)'",,tab:fcorr-bound,4.0,4.0
+tab:fcorr-bound|B standard|f_corr,0.617,0.617,3.0,4,"tab:fcorr-bound, row 'B standard', column 'f_corr'",,tab:fcorr-bound,5.0,1.0
+tab:fcorr-bound|B standard|NPV calibrated (Mâ‚¬),-14.97,-14.97,2.0,4,"tab:fcorr-bound, row 'B standard', column 'NPV calibrated (Mâ‚¬)'",,tab:fcorr-bound,5.0,2.0
+tab:fcorr-bound|B standard|NPV with f_corr = 1 (Mâ‚¬),-14.29,-14.29,2.0,4,"tab:fcorr-bound, row 'B standard', column 'NPV with f_corr = 1 (Mâ‚¬)'",,tab:fcorr-bound,5.0,3.0
+tab:fcorr-bound|B standard|Difference (Mâ‚¬),+0.69,0.69,2.0,4,"tab:fcorr-bound, row 'B standard', column 'Difference (Mâ‚¬)'",,tab:fcorr-bound,5.0,4.0
+tab:tank-vs-ates|CAPEX (Mâ‚¬)|TTES 5k,5.04,5.04,2.0,4,"tab:tank-vs-ates, row 'CAPEX (Mâ‚¬)', column 'TTES 5k'",,tab:tank-vs-ates,0.0,1.0
+tab:tank-vs-ates|CAPEX (Mâ‚¬)|Option A 1D,10.5,10.5,1.0,4,"tab:tank-vs-ates, row 'CAPEX (Mâ‚¬)', column 'Option A 1D'",,tab:tank-vs-ates,0.0,2.0
+tab:tank-vs-ates|CAPEX (Mâ‚¬)|Option A 4D,30.0,30.0,1.0,4,"tab:tank-vs-ates, row 'CAPEX (Mâ‚¬)', column 'Option A 4D'",,tab:tank-vs-ates,0.0,3.0
+tab:tank-vs-ates|OPEX (kâ‚¬/yr)|TTES 5k,71,71.0,0.0,4,"tab:tank-vs-ates, row 'OPEX (kâ‚¬/yr)', column 'TTES 5k'",,tab:tank-vs-ates,1.0,1.0
+tab:tank-vs-ates|OPEX (kâ‚¬/yr)|Option A 1D,175,175.0,0.0,4,"tab:tank-vs-ates, row 'OPEX (kâ‚¬/yr)', column 'Option A 1D'",,tab:tank-vs-ates,1.0,2.0
+tab:tank-vs-ates|OPEX (kâ‚¬/yr)|Option A 4D,495,495.0,0.0,4,"tab:tank-vs-ates, row 'OPEX (kâ‚¬/yr)', column 'Option A 4D'",,tab:tank-vs-ates,1.0,3.0
+tab:tank-vs-ates|Charge and discharge power (MW)|TTES 5k,50,50.0,0.0,4,"tab:tank-vs-ates, row 'Charge and discharge power (MW)', column 'TTES 5k'",,tab:tank-vs-ates,2.0,1.0
+tab:tank-vs-ates|Charge and discharge power (MW)|Option A 1D,13.3,13.3,1.0,4,"tab:tank-vs-ates, row 'Charge and discharge power (MW)', column 'Option A 1D'",,tab:tank-vs-ates,2.0,2.0
+tab:tank-vs-ates|Charge and discharge power (MW)|Option A 4D,53.2,53.2,1.0,4,"tab:tank-vs-ates, row 'Charge and discharge power (MW)', column 'Option A 4D'",,tab:tank-vs-ates,2.0,3.0
+tab:tank-vs-ates|CAPEX per MW (Mâ‚¬/MW)|TTES 5k,0.10,0.1,2.0,4,"tab:tank-vs-ates, row 'CAPEX per MW (Mâ‚¬/MW)', column 'TTES 5k'",,tab:tank-vs-ates,3.0,1.0
+tab:tank-vs-ates|CAPEX per MW (Mâ‚¬/MW)|Option A 1D,0.79,0.79,2.0,4,"tab:tank-vs-ates, row 'CAPEX per MW (Mâ‚¬/MW)', column 'Option A 1D'",,tab:tank-vs-ates,3.0,2.0
+tab:tank-vs-ates|CAPEX per MW (Mâ‚¬/MW)|Option A 4D,0.56,0.56,2.0,4,"tab:tank-vs-ates, row 'CAPEX per MW (Mâ‚¬/MW)', column 'Option A 4D'",,tab:tank-vs-ates,3.0,3.0
+tab:tank-vs-ates|Heat discharged (MWh/yr)|TTES 5k,"5,320",5320.0,0.0,4,"tab:tank-vs-ates, row 'Heat discharged (MWh/yr)', column 'TTES 5k'",,tab:tank-vs-ates,4.0,1.0
+tab:tank-vs-ates|Heat discharged (MWh/yr)|Option A 1D,"4,251",4251.0,0.0,4,"tab:tank-vs-ates, row 'Heat discharged (MWh/yr)', column 'Option A 1D'",,tab:tank-vs-ates,4.0,2.0
+tab:tank-vs-ates|Heat discharged (MWh/yr)|Option A 4D,"13,820",13820.0,0.0,4,"tab:tank-vs-ates, row 'Heat discharged (MWh/yr)', column 'Option A 4D'",,tab:tank-vs-ates,4.0,3.0
+tab:tank-vs-ates|Heat discharged per MW (MWh/MW/yr)|TTES 5k,106,106.0,0.0,4,"tab:tank-vs-ates, row 'Heat discharged per MW (MWh/MW/yr)', column 'TTES 5k'",,tab:tank-vs-ates,5.0,1.0
+tab:tank-vs-ates|Heat discharged per MW (MWh/MW/yr)|Option A 1D,320,320.0,0.0,4,"tab:tank-vs-ates, row 'Heat discharged per MW (MWh/MW/yr)', column 'Option A 1D'",,tab:tank-vs-ates,5.0,2.0
+tab:tank-vs-ates|Heat discharged per MW (MWh/MW/yr)|Option A 4D,260,260.0,0.0,4,"tab:tank-vs-ates, row 'Heat discharged per MW (MWh/MW/yr)', column 'Option A 4D'",,tab:tank-vs-ates,5.0,3.0
+tab:tank-vs-ates|CAPEX per MWh/yr discharged (â‚¬)|TTES 5k,948,948.0,0.0,4,"tab:tank-vs-ates, row 'CAPEX per MWh/yr discharged (â‚¬)', column 'TTES 5k'",,tab:tank-vs-ates,6.0,1.0
+tab:tank-vs-ates|CAPEX per MWh/yr discharged (â‚¬)|Option A 1D,"2,470",2470.0,0.0,4,"tab:tank-vs-ates, row 'CAPEX per MWh/yr discharged (â‚¬)', column 'Option A 1D'",,tab:tank-vs-ates,6.0,2.0
+tab:tank-vs-ates|CAPEX per MWh/yr discharged (â‚¬)|Option A 4D,"2,171",2171.0,0.0,4,"tab:tank-vs-ates, row 'CAPEX per MWh/yr discharged (â‚¬)', column 'Option A 4D'",,tab:tank-vs-ates,6.0,3.0
+tab:tank-vs-ates|Storage effect (kâ‚¬/yr)|TTES 5k,51,51.0,0.0,4,"tab:tank-vs-ates, row 'Storage effect (kâ‚¬/yr)', column 'TTES 5k'",,tab:tank-vs-ates,7.0,1.0
+tab:tank-vs-ates|Storage effect (kâ‚¬/yr)|Option A 1D,93,93.0,0.0,4,"tab:tank-vs-ates, row 'Storage effect (kâ‚¬/yr)', column 'Option A 1D'",,tab:tank-vs-ates,7.0,2.0
+tab:tank-vs-ates|Storage effect (kâ‚¬/yr)|Option A 4D,250,250.0,0.0,4,"tab:tank-vs-ates, row 'Storage effect (kâ‚¬/yr)', column 'Option A 4D'",,tab:tank-vs-ates,7.0,3.0
+tab:tank-vs-ates|Saving attributed to storage (kâ‚¬/yr)|TTES 5k,827,827.0,0.0,4,"tab:tank-vs-ates, row 'Saving attributed to storage (kâ‚¬/yr)', column 'TTES 5k'",,tab:tank-vs-ates,8.0,1.0
+tab:tank-vs-ates|Saving attributed to storage (kâ‚¬/yr)|Option A 1D,869,869.0,0.0,4,"tab:tank-vs-ates, row 'Saving attributed to storage (kâ‚¬/yr)', column 'Option A 1D'",,tab:tank-vs-ates,8.0,2.0
+tab:tank-vs-ates|Saving attributed to storage (kâ‚¬/yr)|Option A 4D,"1,026",1026.0,0.0,4,"tab:tank-vs-ates, row 'Saving attributed to storage (kâ‚¬/yr)', column 'Option A 4D'",,tab:tank-vs-ates,8.0,3.0
+tab:tank-vs-ates|Storage effect per MWh discharged (â‚¬/MWh)|TTES 5k,9.7,9.7,1.0,4,"tab:tank-vs-ates, row 'Storage effect per MWh discharged (â‚¬/MWh)', column 'TTES 5k'",,tab:tank-vs-ates,9.0,1.0
+tab:tank-vs-ates|Storage effect per MWh discharged (â‚¬/MWh)|Option A 1D,21.8,21.8,1.0,4,"tab:tank-vs-ates, row 'Storage effect per MWh discharged (â‚¬/MWh)', column 'Option A 1D'",,tab:tank-vs-ates,9.0,2.0
+tab:tank-vs-ates|Storage effect per MWh discharged (â‚¬/MWh)|Option A 4D,18.1,18.1,1.0,4,"tab:tank-vs-ates, row 'Storage effect per MWh discharged (â‚¬/MWh)', column 'Option A 4D'",,tab:tank-vs-ates,9.0,3.0
+tab:tank-vs-ates|LCOH (â‚¬/MWh)|TTES 5k,75,75.0,0.0,4,"tab:tank-vs-ates, row 'LCOH (â‚¬/MWh)', column 'TTES 5k'",,tab:tank-vs-ates,10.0,1.0
+tab:tank-vs-ates|LCOH (â‚¬/MWh)|Option A 1D,202,202.0,0.0,4,"tab:tank-vs-ates, row 'LCOH (â‚¬/MWh)', column 'Option A 1D'",,tab:tank-vs-ates,10.0,2.0
+tab:tank-vs-ates|LCOH (â‚¬/MWh)|Option A 4D,177,177.0,0.0,4,"tab:tank-vs-ates, row 'LCOH (â‚¬/MWh)', column 'Option A 4D'",,tab:tank-vs-ates,10.0,3.0
+tab:tank-vs-ates|NPV (Mâ‚¬)|TTES 5k,+6.59,6.59,2.0,4,"tab:tank-vs-ates, row 'NPV (Mâ‚¬)', column 'TTES 5k'",,tab:tank-vs-ates,11.0,1.0
+tab:tank-vs-ates|NPV (Mâ‚¬)|Option A 1D,+0.16,0.16,2.0,4,"tab:tank-vs-ates, row 'NPV (Mâ‚¬)', column 'Option A 1D'",,tab:tank-vs-ates,11.0,2.0
+tab:tank-vs-ates|NPV (Mâ‚¬)|Option A 4D,-21.84,-21.84,2.0,4,"tab:tank-vs-ates, row 'NPV (Mâ‚¬)', column 'Option A 4D'",,tab:tank-vs-ates,11.0,3.0
+"4-arb-share|storage effect share, tank (%)",2.7,2.7,1.0,4,"prose, section 4-arb-share",which is 2.7% of the total saving of the tank,,,
+"4-arb-share|storage effect share, aquifer min (%)",3.8,3.8,1.0,4,"prose, section 4-arb-share",and 3.8--11.9% for the aquifer options,,,
+"4-arb-share|storage effect share, aquifer max (%)",11.9,11.9,1.0,4,"prose, section 4-arb-share",and 3.8--11.9% for the aquifer options,,,
+4-arb-share|dispatch share min (%),88,88.0,0.0,4,"prose, section 4-arb-share",The remaining 88--97% of the total saving,,,
+4-arb-share|dispatch share max (%),97,97.0,0.0,4,"prose, section 4-arb-share",The remaining 88--97% of the total saving,,,
+"4-arb-share|value per MWh / LCOH, max over options (%)",13,13.0,0.0,4,"prose, section 4-arb-share",covers at most 13% of the cost per MWh,,,
+"4-arb-why|discharged heat share of HX production, min (%)",1.5,1.5,1.0,4,"prose, section 4-arb-why",is 1.5--4.9% of the 282 GWh/yr,,,
+"4-arb-why|discharged heat share of HX production, max (%)",4.9,4.9,1.0,4,"prose, section 4-arb-why",is 1.5--4.9% of the 282 GWh/yr,,,
+4-arb-why|heat produced by the heat exchangers (GWh/yr),282,282.0,0.0,4,"prose, section 4-arb-why",of the 282 GWh/yr that the heat exchangers produce,,,
+4-arb-why|charged energy above one doublet (%),95.6,95.6,1.0,4,"prose, section 4-arb-why",95.6% of the charged energy is charged above,,,
+4-arb-why|share of S_ref carried by the buffers (%),42,42.0,0.0,4,"prose, section 4-arb-why",already carry 42% of the dispatch-only reference,,,
+4-arb-why|S_ref without buffers (k EUR/yr),623,623.0,0.0,4,"prose, section 4-arb-why",â‚¬623 k/yr without the buffers,,,
+4-arb-sens|S_flex at level 0.8 (k EUR/yr),621,621.0,0.0,4,"prose, section 4-arb-sens","(â‚¬621, 776 and 931 k/yr at 0.8, 1 and 1.2 times the level)",,,
+4-arb-sens|S_flex at level 1.2 (k EUR/yr),931,931.0,0.0,4,"prose, section 4-arb-sens","(â‚¬621, 776 and 931 k/yr at 0.8, 1 and 1.2 times the level)",,,
+4-arb-sens|S_flex min over spreads (k EUR/yr),772,772.0,0.0,4,"prose, section 4-arb-sens",(â‚¬772--785 k/yr at 0.75 to 1.5 times the spread),,,
+4-arb-sens|S_flex max over spreads (k EUR/yr),785,785.0,0.0,4,"prose, section 4-arb-sens",(â‚¬772--785 k/yr at 0.75 to 1.5 times the spread),,,
+4-arb-sens|S_ref rise per 0.25 of spread (k EUR/yr),104,104.0,0.0,4,"prose, section 4-arb-sens",by about â‚¬104 k/yr for each 0.25 of spread,,,
+4-arb-sens|S_ref change at level 0.8 (%),-18,-18.0,0.0,4,"prose, section 4-arb-sens",it changes by -18% and +18% at the price levels,,,
+4-arb-sens|S_ref change at level 1.2 (%),+18,18.0,0.0,4,"prose, section 4-arb-sens",it changes by -18% and +18% at the price levels,,,
+4-arb-sens|S_stor A1D change per 25% of spread (%),50,50.0,0.0,4,"prose, section 4-arb-sens",changes the storage effect of Option A 1D by about 50%,,,
+4-arb-sens|S_stor tank change per 25% of spread (%),70,70.0,0.0,4,"prose, section 4-arb-sens",and that of the tank by about 70%,,,
+4-arb-sens|NPV A1D change per 25% of spread (M EUR),0.8,0.8,1.0,4,"prose, section 4-arb-sens",changes by about â‚¬0.8 million per 25% of spread,,,
+"4-arb-sens|lowest tank NPV, level 0.8 (M EUR)",4.04,4.04,2.0,4,"prose, section 4-arb-sens",with a lowest value of +â‚¬4.04 million at a price level of 0.8,,,
+4-arb-sens|break-even spread factor A1D,0.95,0.95,2.0,4,"prose, section 4-arb-sens",break even at 0.95 and 0.98 times the spread,,,
+4-arb-sens|break-even spread factor B-WN110,0.98,0.98,2.0,4,"prose, section 4-arb-sens",break even at 0.95 and 0.98 times the spread,,,
+4-arb-sens|zero-NPV spread factor A2D (linear extrapolation),2.2,2.2,1.0,4,"prose, section 4-arb-sens",zero NPV at about 2.2 times the spread for two doublets,,,
+4-arb-sens|zero-NPV spread factor A4D (linear extrapolation),3.7,3.7,1.0,4,"prose, section 4-arb-sens",3.7 times for four doublets,,,
+4-arb-sens|zero-NPV spread factor B-std (linear extrapolation),6.3,6.3,1.0,4,"prose, section 4-arb-sens",6.3 times for Option B standard,,,
+4-arb-isolate|S_ref step 0.75 to 1.0 (k EUR/yr),104.2,104.2,1.0,4,"prose, section 4-arb-isolate","the steps are â‚¬104.2, 104.1 and 104.2 k/yr for the reference",,,
+4-arb-isolate|S_ref step 1.0 to 1.25 (k EUR/yr),104.1,104.1,1.0,4,"prose, section 4-arb-isolate","the steps are â‚¬104.2, 104.1 and 104.2 k/yr for the reference",,,
+4-arb-isolate|S_ref step 1.25 to 1.5 (k EUR/yr),104.2,104.2,1.0,4,"prose, section 4-arb-isolate","the steps are â‚¬104.2, 104.1 and 104.2 k/yr for the reference",,,
+4-arb-isolate|A1D uncalibrated step 0.75 to 1.0 (k EUR/yr),78,78.0,0.0,4,"prose, section 4-arb-isolate","the steps are â‚¬78, 83 and 91 k/yr per 0.25 of spread",,,
+4-arb-isolate|A1D uncalibrated step 1.0 to 1.25 (k EUR/yr),83,83.0,0.0,4,"prose, section 4-arb-isolate","the steps are â‚¬78, 83 and 91 k/yr per 0.25 of spread",,,
+4-arb-isolate|A1D uncalibrated step 1.25 to 1.5 (k EUR/yr),91,91.0,0.0,4,"prose, section 4-arb-isolate","the steps are â‚¬78, 83 and 91 k/yr per 0.25 of spread",,,
+4-arb-isolate|S_ref at a flat price (k EUR/yr),657,657.0,0.0,4,"prose, section 4-arb-isolate",would still be about â‚¬657 k/yr,,,
+4-arb-isolate|S_flex at a flat price (k EUR/yr),759,759.0,0.0,4,"prose, section 4-arb-isolate",the relaxed schedule about â‚¬759 k/yr,,,
+4-arb-isolate|S_ref + S_flex at a flat price (M EUR/yr),1.4,1.4,1.0,4,"prose, section 4-arb-isolate",Together this is about â‚¬1.4 million per year,,,
+4-arb-isolate|S_ref + S_flex at the 2023-2025 spread (k EUR/yr),1850,1850.0,0.0,4,"prose, section 4-arb-isolate","of the â‚¬1,850 k/yr of the two terms",,,
+4-arb-isolate|spread-dependent part of S_ref (k EUR/yr),417,417.0,0.0,4,"prose, section 4-arb-isolate",The remaining â‚¬417 k/yr of the reference,,,
+4-arb-isolate|spread-dependent part of S_flex (k EUR/yr),17,17.0,0.0,4,"prose, section 4-arb-isolate",and â‚¬17 k/yr of the relaxed schedule depend on the spread,,,
+4-arb-isolate|spread-dependent value of S_ref + S_flex (k EUR/yr),434,434.0,0.0,4,"prose, section 4-arb-isolate",together is about â‚¬434 k/yr,,,
+4-arb-isolate|434 / largest storage effect,1.7,1.7,1.0,4,"prose, section 4-arb-isolate",which is 1.7 times the largest and 8.5 times the smallest,,,
+4-arb-isolate|434 / smallest storage effect,8.5,8.5,1.0,4,"prose, section 4-arb-isolate",which is 1.7 times the largest and 8.5 times the smallest,,,
+"4-rosim-gap|eta_ROSIM / eta_cycle, Option A min",0.54,0.54,2.0,4,"prose, section 4-rosim-gap",is 0.54 to 0.55 for the three Option A configurations,,,
+"4-rosim-gap|eta_ROSIM / eta_cycle, B-WN110",0.62,0.62,2.0,4,"prose, section 4-rosim-gap",0.62 for Option B WN at 110 Â°C,,,
+"4-rosim-gap|eta_ROSIM / eta_cycle, B-std",0.60,0.6,2.0,4,"prose, section 4-rosim-gap",and 0.60 for Option B standard. This section,,,
+4-rosim-gap|Q_disch/Q_ch A1D (%),54,54.0,0.0,4,"prose, section 4-rosim-gap","which is 54%, 63% and 73% for one, two and four doublets",,,
+4-rosim-gap|Q_disch/Q_ch A2D (%),63,63.0,0.0,4,"prose, section 4-rosim-gap","which is 54%, 63% and 73% for one, two and four doublets",,,
+4-rosim-gap|Q_disch/Q_ch A4D (%),73,73.0,0.0,4,"prose, section 4-rosim-gap","which is 54%, 63% and 73% for one, two and four doublets",,,
+4-rosim-gap|Q_disch/Q_ch minus eta_ROSIM A1D (pp),9,9.0,0.0,4,"prose, section 4-rosim-gap","are lower by 9, 13 and 22 percentage points",,,
+4-rosim-gap|Q_disch/Q_ch minus eta_ROSIM A2D (pp),13,13.0,0.0,4,"prose, section 4-rosim-gap","are lower by 9, 13 and 22 percentage points",,,
+4-rosim-gap|Q_disch/Q_ch minus eta_ROSIM A4D (pp),22,22.0,0.0,4,"prose, section 4-rosim-gap","are lower by 9, 13 and 22 percentage points",,,
+4-rosim-gap|eta_cycle minus eta_ROSIM A1D (pp),38,38.0,0.0,4,"prose, section 4-rosim-gap","and not by 38, 41 and 42 percentage points",,,
+4-rosim-gap|eta_cycle minus eta_ROSIM A2D (pp),41,41.0,0.0,4,"prose, section 4-rosim-gap","and not by 38, 41 and 42 percentage points",,,
+4-rosim-gap|eta_cycle minus eta_ROSIM A4D (pp),42,42.0,0.0,4,"prose, section 4-rosim-gap","and not by 38, 41 and 42 percentage points",,,
+4-rosim-gap|ground loss share of charged heat A1D (%),11,11.0,0.0,4,"prose, section 4-rosim-gap","this loss is 11%, 7% and 5% of the charged heat",,,
+4-rosim-gap|ground loss share of charged heat A2D (%),7,7.0,0.0,4,"prose, section 4-rosim-gap","this loss is 11%, 7% and 5% of the charged heat",,,
+4-rosim-gap|ground loss share of charged heat A4D (%),5,5.0,0.0,4,"prose, section 4-rosim-gap","this loss is 11%, 7% and 5% of the charged heat",,,
+"4-rosim-gap|cold-well delivered temperature A1D, year 7 (C)",63,63.0,0.0,4,"prose, section 4-rosim-gap","has a flow-weighted mean of 63, 61 and 59 Â°C",,,
+"4-rosim-gap|cold-well delivered temperature A2D, year 7 (C)",61,61.0,0.0,4,"prose, section 4-rosim-gap","has a flow-weighted mean of 63, 61 and 59 Â°C",,,
+"4-rosim-gap|cold-well delivered temperature A4D, year 7 (C)",59,59.0,0.0,4,"prose, section 4-rosim-gap","has a flow-weighted mean of 63, 61 and 59 Â°C",,,
+4-rosim-gap|f_corr basis D A1D,0.491,0.491,3.0,4,"prose, section 4-rosim-gap","the correction factors would be 0.491, 0.494 and 0.476",,,
+4-rosim-gap|f_corr basis D A2D,0.494,0.494,3.0,4,"prose, section 4-rosim-gap","the correction factors would be 0.491, 0.494 and 0.476",,,
+4-rosim-gap|f_corr basis D A4D,0.476,0.476,3.0,4,"prose, section 4-rosim-gap","the correction factors would be 0.491, 0.494 and 0.476",,,
+4-rosim-gap|A1D discharge at eta_ROSIM x charged heat (MWh/yr),5400,5400.0,0.0,4,"prose, section 4-rosim-gap","correspond to about 5,400 MWh/yr discharged",,,
+4-rosim-gap|A1D charged heat (MWh/yr),11892,11892.0,0.0,4,"prose, section 4-rosim-gap","if the charged heat stays at 11,892 MWh/yr",,,
+"4-rosim-gap|A1D discharged heat, calibrated run (MWh/yr)",4251,4251.0,0.0,4,"prose, section 4-rosim-gap","against 4,251 MWh/yr in the calibrated run",,,
+"4-rosim-gap|A1D discharged heat, uncalibrated run (MWh/yr)",6446,6446.0,0.0,4,"prose, section 4-rosim-gap","and 6,446 MWh/yr in the uncalibrated run",,,
+4-tank|CAPEX ratio A1D / tank,2.1,2.1,1.0,4,"prose, section 4-tank",The CAPEX of a single doublet is 2.1 times that of the tank,,,
+4-tank|OPEX ratio A1D / tank,2.5,2.5,1.0,4,"prose, section 4-tank",its OPEX is 2.5 times,,,
+4-tank|S_attr A1D above tank (%),5,5.0,0.0,4,"prose, section 4-tank",attributed to the storage is 5% higher,,,
+4-tank|NPV difference tank - A1D (M EUR),6.43,6.43,2.0,4,"prose, section 4-tank",The NPV difference of â‚¬6.43 million,,,
+4-tank|CAPEX share of the NPV difference (%),85,85.0,0.0,4,"prose, section 4-tank",comes for 85% from the lower CAPEX,,,
+4-tank|CAPEX term of the NPV difference (M EUR),5.46,5.46,2.0,4,"prose, section 4-tank",from the lower CAPEX (â‚¬5.46 million),,,
+4-tank|OPEX share of the NPV difference (%),25,25.0,0.0,4,"prose, section 4-tank",and for 25% from the lower OPEX,,,
+4-tank|OPEX term of the NPV difference (M EUR),1.61,1.61,2.0,4,"prose, section 4-tank",(â‚¬1.61 million in present value),,,
+4-tank|saving share of the NPV difference (%),10,10.0,0.0,4,"prose, section 4-tank",it is reduced by 10% by the higher saving,,,
+4-tank|saving term of the NPV difference (M EUR),0.63,0.63,2.0,4,"prose, section 4-tank",by the higher saving of the doublet (â‚¬0.63 million),,,
+"4-tank|PV of net annual benefit, tank (M EUR)",11.6,11.6,1.0,4,"prose, section 4-tank",is â‚¬11.6 million for the tank,,,
+"4-tank|PV of net annual benefit, A1D (M EUR)",10.7,10.7,1.0,4,"prose, section 4-tank",and â‚¬10.7 million for the doublet,,,
+"4-tank|storage effect / S_flex, tank (%)",6,6.0,0.0,4,"prose, section 4-tank",the storage effect is only 6% of it for the tank,,,
+"4-tank|storage effect / S_flex, A1D (%)",11,11.0,0.0,4,"prose, section 4-tank",and 11% for the doublet,,,
+4-tank|CAPEX per MW ratio A1D / tank,7.8,7.8,1.0,4,"prose, section 4-tank",which is 7.8 times as much,,,
+4-tank|discharge per MW ratio A1D / tank,3,3.0,0.0,4,"prose, section 4-tank",uses its capacity three times as intensively,,,
+4-tank|CAPEX per MWh/yr ratio A1D / tank,2.6,2.6,1.0,4,"prose, section 4-tank",the CAPEX of the doublet is 2.6 times that of the tank,,,
+4-tank|value per MWh ratio A1D / tank,2.2,2.2,1.0,4,"prose, section 4-tank",but this advantage of 2.2 is smaller,,,
+"4-lcoh|PV of costs, tank (M EUR)",6.13,6.13,2.0,4,"prose, section 4-lcoh",which is â‚¬6.13 million,,,
+"4-lcoh|PV of discharged heat, tank (GWh)",81.8,81.8,1.0,4,"prose, section 4-lcoh",which is 81.8 GWh,,,
+4-lcoh|LCOH tank from the PV ratio (EUR/MWh),74.9,74.9,1.0,4,"prose, section 4-lcoh",Their ratio is â‚¬74.9/MWh,,,
+"4-lcoh|PV of costs, A1D (M EUR)",13.19,13.19,2.0,4,"prose, section 4-lcoh",the present values are â‚¬13.19 million and 65.3 GWh,,,
+"4-lcoh|PV of discharged heat, A1D (GWh)",65.3,65.3,1.0,4,"prose, section 4-lcoh",the present values are â‚¬13.19 million and 65.3 GWh,,,
+4-lcoh|LCOH A1D from the PV ratio (EUR/MWh),201.8,201.8,1.0,4,"prose, section 4-lcoh",which give â‚¬201.8/MWh,,,
+4-lcoh|PV of heat lower without year-1 discharge (%),6.2,6.2,1.0,4,"prose, section 4-lcoh",the present value of the heat would be 6.2% lower,,,
+4-lcoh|LCOH higher without year-1 discharge (%),6.6,6.6,1.0,4,"prose, section 4-lcoh",the LCOH of the ATES options would be 6.6% higher,,,
+4-lcoh|LCOH A1D without year-1 discharge (EUR/MWh),215,215.0,0.0,4,"prose, section 4-lcoh",This gives â‚¬215/MWh instead of â‚¬202/MWh,,,
+4-lcoh|LCOH A2D without year-1 discharge (EUR/MWh),175,175.0,0.0,4,"prose, section 4-lcoh",and â‚¬175/MWh instead of â‚¬164/MWh,,,
+3-econ|annuity factor f_ann,0.0651,0.0651,4.0,3,"prose, section 3-econ",these are f_ann = 0.0651 and f_PV = 15.37,,,
+3-econ|present value factor f_PV,15.37,15.37,2.0,3,"prose, section 3-econ",these are f_ann = 0.0651 and f_PV = 15.37,,,
